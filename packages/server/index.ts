@@ -3,8 +3,10 @@ import type { Request, Response } from 'express';
 import dotenv from 'dotenv';
 import OpenAI from 'openai';
 import z from 'zod';
+import { conversationRepository } from './repositories/conversation.repository';
 
 dotenv.config();
+const port = process.env.PORT || 3000;
 
 const client = new OpenAI({
    apiKey: process.env.OPENAI_API_KEY,
@@ -12,8 +14,6 @@ const client = new OpenAI({
 
 const app = express();
 app.use(express.json());
-
-const port = process.env.PORT || 3000;
 
 app.get('/', (req: Request, res: Response) => {
    res.send('Hello World!!');
@@ -23,7 +23,6 @@ app.get('/api/hello', (req: Request, res: Response) => {
    res.json({ message: 'Hallo World!' });
 });
 
-const conversations = new Map<string, string>();
 const chatSchema = z.object({
    prompt: z
       .string()
@@ -39,21 +38,27 @@ app.post('/api/chat', async (req: Request, res: Response) => {
       res.status(400).json(parsedResult.error.format());
    }
 
-   const { prompt, conversationId } = req.body;
+   try {
+      const { prompt, conversationId } = req.body;
+      const response = await client.responses.create({
+         model: 'gpt-5-nano',
+         input: prompt,
+         max_output_tokens: 300,
+         reasoning: {
+            effort: 'low',
+         },
+         previous_response_id:
+            conversationRepository.getLastResponseId(conversationId),
+      });
 
-   const response = await client.responses.create({
-      model: 'gpt-5-nano',
-      input: prompt,
-      max_output_tokens: 300,
-      reasoning: {
-         effort: 'low',
-      },
-      previous_response_id: conversations.get(conversationId),
-   });
+      conversationRepository.setLastResponseId(conversationId, response.id);
 
-   conversations.set(conversationId, response.id);
-
-   res.json({ message: response.output_text });
+      res.json({ message: response.output_text });
+   } catch (err) {
+      res.status(500).json({
+         error: `Failed to generate response...( ${err} )`,
+      });
+   }
 });
 
 app.listen(port, () => {
