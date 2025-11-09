@@ -1,5 +1,8 @@
+import fs from 'fs';
+import path from 'path';
 import OpenAI from 'openai';
 import { conversationRepository } from '../repositories/conversation.repository';
+import template from '../prompts/chatbot.txt';
 
 const client = new OpenAI({
    apiKey: process.env.OPENAI_API_KEY,
@@ -10,6 +13,12 @@ type ChatResponse = {
    message: string;
 };
 
+const parkInfo = fs.readFileSync(
+   path.join(__dirname, '..', 'prompts', 'WonderWorld.md'),
+   'utf-8'
+);
+const instructions = template.replace('{{parkInfo}}', parkInfo);
+
 export const chatService = {
    async sendMessage(
       prompt: string,
@@ -18,6 +27,7 @@ export const chatService = {
       const response = await client.responses.create({
          model: 'gpt-5-nano',
          input: prompt,
+         instructions,
          max_output_tokens: 2000,
          reasoning: {
             effort: 'low',
