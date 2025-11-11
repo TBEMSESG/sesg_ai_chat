@@ -1,12 +1,8 @@
 import fs from 'fs';
 import path from 'path';
-import OpenAI from 'openai';
 import { conversationRepository } from '../repositories/conversation.repository';
 import template from '../prompts/chatbot.txt';
-
-const client = new OpenAI({
-   apiKey: process.env.OPENAI_API_KEY,
-});
+import { llmClient } from '../llm/client';
 
 type ChatResponse = {
    id: string;
@@ -24,9 +20,9 @@ export const chatService = {
       prompt: string,
       conversationId: string
    ): Promise<ChatResponse> {
-      const response = await client.responses.create({
+      const response = await llmClient.generateText({
          model: 'gpt-5-nano',
-         input: prompt,
+         prompt,
          instructions,
          max_output_tokens: 2000,
          reasoning: {
@@ -40,7 +36,7 @@ export const chatService = {
 
       return {
          id: response.id,
-         message: response.output_text,
+         message: response.text,
       };
    },
 };

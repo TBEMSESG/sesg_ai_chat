@@ -1,0 +1,7 @@
+Summarize the following customer reviews into a short paragraph highlighting key themes, both positive and negative:
+if there is no review to summarize, invite the user to publish a review.
+---
+
+{{reviews}}
+
+---
