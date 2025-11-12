@@ -1,8 +1,16 @@
 import OpenAI from 'openai';
+import { InferenceClient } from '@huggingface/inference';
+import { Ollama } from 'ollama';
 
-const client = new OpenAI({
+import summarizePrompt from '../prompts/summarize-reviews.txt';
+
+const openAIClient = new OpenAI({
    apiKey: process.env.OPENAI_API_KEY,
 });
+
+const inferenceClient = new InferenceClient(process.env.HF_TOKEN);
+
+const ollamaClient = new Ollama({ host: 'http://10.10.0.16:11434' });
 
 type GenerateTextOptions = {
    model?: string;
@@ -29,7 +37,7 @@ export const llmClient = {
          effort: 'low',
       },
    }: GenerateTextOptions): Promise<GenerateTextResult> {
-      const response = await client.responses.create({
+      const response = await openAIClient.responses.create({
          model,
          input: prompt,
          instructions,
@@ -42,5 +50,38 @@ export const llmClient = {
          id: response.id,
          text: response.output_text,
       };
+   },
+   async summarizeReviews(reviews: string) {
+      const output = await ollamaClient.chat({
+         model: 'tinyllama',
+         messages: [
+            {
+               role: 'system',
+               content: summarizePrompt,
+            },
+            {
+               role: 'user',
+               content: reviews,
+            },
+         ],
+      });
+      return output.message.content || '';
+   },
+
+   async chatSESG(instructions: string, request: string) {
+      const output = await ollamaClient.chat({
+         model: 'tinyllama',
+         messages: [
+            {
+               role: 'system',
+               content: instructions,
+            },
+            {
+               role: 'user',
+               content: request,
+            },
+         ],
+      });
+      return output.message.content || '';
    },
 };
