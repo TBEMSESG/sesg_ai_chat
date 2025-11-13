@@ -1,0 +1,431 @@
+"Case Number","Status","Case Origin","Date/Time Opened","Completion Date","Model CodeName","Subject","Description","Resolution Reports"
+"00330166","Closed","","01.09.2025, 15:59","02.09.2025, 09:07","LH32QMCEPGCXEN","[LH32QMCEPGCXEN] - Tizen Business Manager","Es wird eine Freischaltung im TBM für folgende Standort benötigt: @ladengasse @national @kesselturm Ebenfalls sind Domain und Browser aktuell nicht funktional.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ approved and informed 
+ "
+"00313392","Closed","","28.01.2025, 15:20","29.01.2025, 11:38","VX-CSY","[VXT] Lizenzanfrage / Preise","KD fragt Preisliste von VXT-Lizenzen an, zudem: Werden diese Lizenzen in der Schweiz direkt bei Samsung oder über einen Distributor bezogen? Ich habe gesehen dass es für Partner die Möglichkeit von Tenant's gibt. Sind hier Informationen zur Registration bekannt? Können Sie mir hierfür einen Link zusenden?","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ Will be discussed with the customer during a meeting (Monday Feb 10.). 
+ "
+"00310651","Closed","","12.12.2024, 16:32","13.12.2024, 15:47","LH55OMNDPGB/EN","[OM55N-D] Lüfter sehr laut und nicht regelbar, automatische Lüftersteuerung nicht auswählbar","Lüfter läuft sehr laut. Lüftersteuerung lässt sich nicht von manuell auf automatisch stellen manuelle Lüftersteuerung kaum ein Unterschied zw. Stufe 1 und Stufe 100 WR und FWU (FW 2450)o.E","[RESOLUTION REPORT] 
+ Type of Resolution : Pending from Customer 
+? Resolution Details :
+Hello Team,
+a. This case has been pending for over a week without any update
+b. The field check list is missing when creating a new case.
+So we close this case based on case management policy.
+You cannot change a case as reopen status after closing.
+So if you need further support on this, please create a new case.
+(? When you create a new case, you can enter this original case number in field 'Related Case'.)
+Thanks.
+? Follow-up actions :"
+"00309846","Closed","Customer Email","03.12.2024, 10:46","03.12.2024, 14:21","S-GT-I9300_TIZEN","WG: Betätigung der Organisation ausstehende - https://tbm.tizenenterprise.com/","Wir warten aktuell auf die Bestätigung unserer Organisation auf dem Portal ""Organization List | Tizen Business Manager""
+Scheinbar steckt da der Verifizierungsprozess irgendwo fest.
+Ist es ihnen möglich uns da zu unterstützen?","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ approved - customer contacted. 
+ "
+"00305155","Closed","","30.09.2024, 20:36","01.10.2024, 07:15","LH24KMATBGCXEN","[SELISE] - Ordermonkey Application lagging issue","Dear Team, Following a call with Selise and SRPOL, please find here the discussed information:   - find the wgt (into a zip) attached to the ticket - Check this video to prepare the app on the kiosk: https://www.loom.com/share/72c3e3bc1ff04ee4964fd1d5354f0779?sid=d175c61a-a76f-4531-af7f-5c5cb1c34959 - Restaurant ID to test: LQG4J0U4YC   Please test the lagging issue as discussed in the call.   Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+ It's been more than 7 days and there was no update from customer/partner.
+So we close this case based on case management policy. 
+ You cannot change a case as reopen status after closing.
+Please share the no-minifed version of application, then create a new case or use clone feature with reference to this case. 
+ (? When you create a new case, you can enter this original case number in field 'Related Case'.) 
+ "
+"00304971","Closed","Customer Email","27.09.2024, 10:30","27.09.2024, 15:20","LH85WMRWLGCXEN","WebAuthor Bug","Unser Webauthor verhält sich seltsam. Wenn wir mit Vorlagen arbeiten und die mit Drehungen und Verschiebungen hochladen und abspeichern, wird die Vorlage nach dem Speichern ohne unseren Einfluss abgeändert und scheint verbuggt. Ein Video des seltsamen Verhaltens ist im Anhang hinterlegt.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ content cannot be bigger than the canvas, so it^s resized at save 
+ "
+"00303117","Closed","","03.09.2024, 18:09","04.09.2024, 11:12","BW-MIP70PA","License Allocation Issue","Dear Team,   from MIS V9 21.1050 there is an issue with License Allocation. No change is possible anymore.   Please check the attached video.   Steps to reproduce: - Go to ""Settings"" ""LicenseManagement"" ""License Status"" - Click on ""Allocate Organization"" - Do any changes and see the error Message.   Please provide a fix and a workaround by modifying the DB directly.   Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+ Changing magicinfo.jar as provided in the solution solved the issue. Thank you all! 
+ "
+"00301383","Closed","Customer Email","13.08.2024, 08:52","13.08.2024, 09:20","LH55QHREBGCXEN","VXT Media Server Konfiguration","Kd bittet um Unterstützung bei der Konfiguration des VXT Media Players","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ Delivered VXT Legacy Guide 
+ "
+"00300905","Closed","","06.08.2024, 13:10","09.08.2024, 15:15","LH55QMCEBGCXEN","MagicINFO v9 21.1050.0","Internal Download Ticket","[RESOLUTION REPORT] 
+ Type of Resolution : No issue 
+? Resolution Details :
+Hello Team,
+a. This case has been pending for over a week without any update
+b. The field check list is missing when creating a new case.
+So we close this case based on case management policy.
+You cannot change a case as reopen status after closing.
+So if you need further support on this, please create a new case.
+(? When you create a new case, you can enter this original case number in field 'Related Case'.)
+Thanks.
+? Follow-up actions :"
+"00287978","Closed","","26.02.2024, 14:34","28.02.2024, 16:51","VX-PSYAT","[VXT CMS] - PDF kann nicht in Contentbereich geladen werden","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""PDF kann nicht in Contentbereich geladen werden, VXT CMS - KD möchte fertigen Content hochladen, es gehen jpg-Dateien aber keine PDF-Dateien, bekommt eine orangefarbige Meldung/Fenster (Platzhalterbild) Office (im Vorschaubild), PDF kann nicht in Contentbereich geladen werden M: Geräte noch nicht Vor Ort, derzeit nur virtuelle Testsoftware vorhanden, KD nutzen Login am PC, PDFs sollen an die Displays geschickt werden, welche in verschiedenen Siedlungen stehen sollen.""	 * Customer Request:	 -	 What did the Customer or Service Integrator already try:	 -	 * How to get error:	 -	 Expected behaviour:	 Kd benötigt Hilfe/Info zu Anfrage 	 Current behaviour:	 permanent 	 PRODUCT INFORMATION:	 * Modelcode:	VXT CMS Software * Firmware Version:	- * Serial Number:	- FW, sub (1,2,3): 	- Server OS: 	- Database version: 	- [LFD] MagicInfo Version:	- [LFD] Webauthor Version: 	- [HTV] Software Solution: 	- [HTV] Coax or IPTV connection: 	- [MONITOR] Signalübertragung (HDMI, DP?):	- CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	26.02.2024, #157647270 * Preferred language:	German * Company Address: 	Stiftung Alterswohnungen der Stadt Zürich, Feldstrasse 110, 8004 Zürich ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Lena * Lastname: 	Leuenberger * E-Mail: 	lena.leuenberger@zuerich.ch * Phone: 	0795873273 Mob:	- Address: 	Feldstrasse 110, 8004 Zürich Preferred Contact Method: 	 E-Mail:	lena.leuenberger@zuerich.ch Phone: 	 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ Technical Guide was provided  
+ "
+"00287434","Closed","","19.02.2024, 14:54","21.02.2024, 19:00","LH13QBREBGCXEN","[MISv9] WebAuthor clock widget issue","Dear all,   please support the following case:   MISv9 : 21.1040.2   Description: - create a new LFD Content (tested with S6 and S9) in webauthor - add a clock widget. - set widget to also show weekday - Check wobauthor preview: the weekday is shown in full ""Monday"" or ""Montag"" - Save and publish content to a screen (tested wit S6 QB13R and S10 OH24B)   Expected behavior : - Screen shows the same information than in Webauthor Preview   Current behavior: - Screen shows the short version of the Weekday ""Mo"" or ""Mon"" (See attached screenshot)   Request: Please provide a fix or a guide: Screen should show the same as the preview.   Thank you","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+ this is unfortunately a bug in Web Author, and will be fixed in the next release of MagicINFO Server, which has now been pushed back to August of this year (tentative) 
+ "
+"00287249","Closed","Customer Email","15.02.2024, 12:51","19.02.2024, 11:05","LH75OHAEBGBXEN","[LH75OHAEBGBXEN]","Wir haben einen OH75A der die Screen Helligkeit nicht automatisch regelt, obwohl der ECO-Sensor eingeschaltet ist.
+Die Helligkeit bleibt immer gleich, egal bei welcher Tageszeit und Sonneneinstrahlung.
+Im Factory Menü wird beim Sensor Test ""OK"" angezeigt.
+ 
+Die FW ist: T-MSMLWWC-1280.3
+ 
+Das Ganze habe ich schon mit Samuel Gabriel Telefonisch angeschaut.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ The Brightness curve of OHA is too sensible, so even minimal lights (street, windows,...) cause the screen to run at high brightness. 
+ As the behavior is by design, i'll close the ticket without having a solution.  (ideally a sensor-gain-adjusting feature should be added to Outdoor devices)   
+ "
+"00283391","Closed","","19.12.2023, 14:02","20.12.2023, 11:06","BW-LRNE01A","[LYNK REACH 4.0 License] not all licenses are shown","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""We bought 187 licenses and the customer sees only 157. WHY? The TV model is irrelevant.""	 * Customer Request:	 -	 What did the Customer or Service Integrator already try:	 -	 * How to get error:	 -	 Expected behaviour:	 needs Support for licenses 	 Current behaviour:	 Not all licenses are visible 	 PRODUCT INFORMATION:	 * Modelcode:	BW-LRNE01A * Firmware Version:	- * Serial Number:	- FW, sub (1,2,3): 	- Server OS: 	- Database version: 	Samsung LYNK Reach 4.0 [LFD] MagicInfo Version:	 [LFD] Webauthor Version: 	- [HTV] Software Solution: 	- [HTV] Coax or IPTV connection: 	- [MONITOR] Signalübertragung (HDMI, DP?):	- CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#141607620; 14.12.2023 * Preferred language:	German * Company Address: 	APTON SAGL, Viale Stazione 11, 6500 Bellinzona ATTACHEMENTS:	 Bild Lizenz 	 Customer Details	 * Firstname:	Steve * Lastname: 	Mazzola * E-Mail: 	steve.mazzola@apton.ch * Phone: 	0912221200 Mob:	 Address: 	Viale Stazione 11, 6500 Bellinzona Preferred Contact Method: 	 E-Mail:	steve.mazzola@apton.ch Phone: 	 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ Wrong process for Lynk Reach:  
+ Correct: License extension isn't working. Need a new License key to be added in addiditon to the original one.  
+ "
+"00281208","Closed","","24.11.2023, 11:05","27.11.2023, 11:01","LH43QMBEBGCXEN","[DataLink] Error in numeric data from Excel","Dear team, Please check the following issue in DataLink, which we believe is a bug.   Issue: DataLink cannot handle numeric fields during ingest. DataLink imports them as VARCHAR, and removes the decimal parts.   Case description / Steps to reproduce: -	Customer has an ?excel? file that is added to the ?Excel connector? in DataLink -	In this Excel file, one of the fields contains the price of the product. Here in Switzerland, numbers with decimals are written as ?22.80? with a ?dot? as the linker. -	During the import, DataLink removes the decimal parts, and adds only the INT part, as VARCHAR to the service. In the eg. : ?22? What we tested already: -	Manually replaced the ?.? with a ?,? in the excel file -	Defined the field as a ?number? in Excel -	Tested various Excel data types Findings: -	Only replacing the ?.? with a ?,? in the Excel file, finally had the ?22,80? value displayed in DataLink. -	This value in DataLink is now a VARCHAR, and it is not possible to cast it to something else -	To have the data shown correctly on the screen we had to replace the ?,? back to ?.? again in an SQL view (Select REPLACE(DL_H, ?,?,?.?) then cast it to a decimal number ?   Request: please check if this can be considered as a bug. If not, then please provide a guide on how price value ?22.80? can be used in DataLink without having to change the source data and modify it again later in DataLink.   Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+ Resolving as per our policy. As per comment from L4, there are two options to handle the issue: 
+ 1.Add Apostrophe (') to number so that it reads it as String. 
+ 2.Instead of above step you can just save file as .csv instead excel. As csv file supports every type. 
+ "
+"00281198","Closed","","24.11.2023, 10:11","27.11.2023, 15:39","LH24QBRTBGCXEN","[QB24R-T] Howto disable long-press menu","Dear team,   please provide a guide for the following case:   The customer is using QB24R-T to display a webpage (published by MagicINFO). This page has to be used by touching the screen. Problem: On our touch devices, a long-press on the screen recalls the OSD menu, where every user can change the source or even turn the device off.   what we tried : - security lock on (this asks for the pin on every interaction, so it's useless for our touch case) - different button lock settings (these have no impact on the OSD menu)   Request: please provide a guide on how to deactivate the long-press function on touch devices.   Thank you Warm regards,   Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+  Menu -> General -> Touch Control -> Admin Menu Lock and set it to On 
+ "
+"00277255","Closed","","04.10.2023, 10:55","05.10.2023, 09:09","LH43QMNEBGC/EN","[MISv8] ""SQL Error was encountered"" by creating custom Frames in MagicINFO schedule","Dear team,   please support the following case:   We have an Org Admin which is not allowed to create custom Frames in MI Schedules. just after pressing the ""Save"" button, he sees an ""SQL Error was encounterd"" Error. (See attached screenshot)   Other Org Admins or Server Admins are not experiencing the issues.   Server Version: MagicINFO V8 build NA-MICS-20.1010.10 DB: PostgreSQL 9.6   Thank you in advance for your support! Warm regards, Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ 1) Create backup of the database 
+ 2) Stop the MagicInfo Premium service 
+ 3) Open PG Admin 
+ 4) Run the given query  ""ALTER TABLE MI_CDS_INFO_FRAME_TEMPLATE ALTER COLUMN ORGANIZATION TYPE VARCHAR(60);""  in the database. 
+ 5) Start the service again 
+ 6) Login with the user  
+ 7) Create custom frame in schedule and save 
+ "
+"00274534","Closed","","31.08.2023, 11:07","31.08.2023, 16:02","CY-MIASSTS","[MagicInfo Webauthor] Webauthor startet nicht, zeigt Fehlermeldung","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 Magic Info Webauthor startet nicht, Fehlermeldung: ""Magic Info Server Version ist niedriger als Webauthor-version""	 * Customer Request:	 	 What did the Customer or Service Integrator already try:	 	 * How to get error:	 	 Expected behaviour:	 	 Current behaviour:	 	 PRODUCT INFORMATION:	 * Modelcode:	 * Firmware Version:	 * Serial Number:	 FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	21.1040.2 [LFD] Webauthor Version: 	N/A [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	31.08.2023 / #122271697 * Preferred language:	English * Company Address: 	Apton Sagal, Viale Stazione 11, 6500 Bellinzona ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Dario * Lastname: 	Covino * E-Mail: 	dario.covino@apton.ch * Phone: 	0762450387 Mob:	 Address: 	 Preferred Contact Method: 	 E-Mail:	dario.covino@apton.ch Phone: 	0762450387 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ Certificate details have to be changed in server.xml, but also config.properties: 
+ # Keystore for security connection 
+ ############################################################################### 
+ keystore.path = C:/MagicInfo Premium/runtime/keystore 
+ keystore.identity.path = C:/MagicInfo Premium/runtime/keystore/swisssign.jks 
+ keystore.identity.password = <YOURPASSWORD> 
+   
+ In this case, there was a typo in the password. Correcting it solved the issue.  
+ "
+"00269932","Closed","","29.06.2023, 10:18","29.06.2023, 17:03","CY-MIESDLS","[MagicInfo] Datenquellen für DataLink","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""Wir haben einen Kunden, der ein Web-Tool verwendet, um seine Raumbelegungen zu verwalten. Diese würde er gerne in MagicInfo abbilden, und wir haben ihm dafür DataLink empfohlen.   In dem Tool habe ich die Möglichkeit, via REST-Abfrage JSONs oder XMLs zu erhalten, muss mich dafür aber einloggen. ""	 * Customer Request:	 Was ist die beste Möglichkeit, dem DataLink-Server diese Daten zur Verfügung zu stellen? Denkbar wäre auch, das mit einem Downloader zu erledigen, der die Inhalte dann in einen Ordner auf dem DataLink-Server legt. 	 What did the Customer or Service Integrator already try:	 	 * How to get error:	 	 Expected behaviour:	 	 Current behaviour:	 	 PRODUCT INFORMATION:	 * Modelcode:	MagicInfo * Firmware Version:	N/A * Serial Number:	N/A FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	N/A [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#112146599, 29.06.23 * Preferred language:	German * Company Address: 	ScreenPro, Chriesbaumstrasse 6 | 8604 Volketswil ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Dennis * Lastname: 	Walter * E-Mail: 	walter@screenpro.ch * Phone: 	044 534 65 70 Mob:	 Address: 	Chriesbaumstrasse 6 | 8604 Volketswil Preferred Contact Method: 	 E-Mail:	walter@screenpro.ch Phone: 	044 534 65 70 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+ no feedback received. Closing the ticket. 
+ "
+"00269454","Closed","","23.06.2023, 12:06","23.06.2023, 16:42","CY-MIASSTS","[MagicInfo] Lizenzschlüssel umschreiben","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 "" Anlässlich der MagicInfo Zertifizierung im November haben wir 2 Lizenzen erhalten. Wir haben nun gesehen, dass diese 2 Lizenzen auf einem neuen Schlüssel aktiviert worden sind.     ""	 * Customer Request:	 Dürfte ich bitten diese 2 Lizenzen auf den Firmenschlüssel umzuschreiben 01015A- 3YHWAB- OO3XFB- CXBC	 What did the Customer or Service Integrator already try:	 	 * How to get error:	 	 Expected behaviour:	 	 Current behaviour:	 	 PRODUCT INFORMATION:	 * Modelcode:	MagicInfo * Firmware Version:	 * Serial Number:	 FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	 [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#111442799, 23.06.23 * Preferred language:	German * Company Address: 	Westinform, 3172 Niederwangen, Freiburgstrasse 596 ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Francesco * Lastname: 	Suppa * E-Mail: 	francesco.suppa@westiform.ch * Phone: 	031 980 22 22 Mob:	 Address: 	3172 Niederwangen, Freiburgstrasse 596 Preferred Contact Method: 	 E-Mail:	francesco.suppa@westiform.ch Phone: 	031 980 22 22 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ already merged 09.01.2023 
+ "
+"00267997","Closed","","06.06.2023, 12:09","06.06.2023, 12:54","LH65QMREBGCXEN","[W-Player] Issue in Variable Tags values","Dear team, please support the following case:   We noticed that passing Variable Tag values to W-player fails if there is a colon (:) in the Value of the Variable Tag.   how to reproduce: - Assign the following Variable Tag to a W-player device: {""name"":""station_middleware"", ""value"":""HTTP://something.com""}   then get the Value of the Variable Tag from the device in W-Player:   const tagtemp = $wp.device.getProperty('variable_tag'); let url1 = tagtemp.find(element => element.name === 'station_middleware').value;   url1 will only have HTTP. The rest is missing by using $wp.device.getProperty()   Already tested: - adding the URL in quote ""HTTP://something.com"" behaves the same.   please provide a fix or a way to escape colon (and any other problematic character)   Thank you Thomas   MagicINFO V9 21.1030.0 Wplayer API: 1.0.0 WPlayer Version: NA-MIWP-21.1030.3 Firmware: T-KTM2ELAKUC-2390.0","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+ HQ fixed the issue. Official release is planned for November this year. 
+ "
+"00267429","Closed","","30.05.2023, 13:37","31.05.2023, 09:19","LH43QMREBGCXEN","[Cloned] [MISv9] Panel Off disappeared in Schedule","Dear all, I reopen this Ticket (old 00262264). The ticket shouldn't have been closed, as still not solved. 
+ As Saumya wrote, they were still investigating the root cause. 
+ thank you for keeping us updated. 
+ warm regards, Thomas 
+ **** 
+ 
+ Dear all, Please let me recreate this case. 
+ The case is not solved. this special behavior is still happening on the server. Copying schedules with Panel Off in, lead to corrupted schedules. 
+ We could organize a Teamviewer session to show the issue directly on the server. Thank you for your support. 
+ Thomas ***** 
+ 
+ Dear all   Please support the following case_   SI had a running MagicINFO server with regular Content Schedules. Some of the schedules have ?Panel Off? HW Source in. Somehow, the Schedule got corrupted, the Panel Off time block is still in the schedule, but without the ?Panel Off? title. Even in the Schedule content preview, the Panel Off content is empty.   I found a few of these Schedules also on our PreSales Lab Server. (v9 21.1020.0)Please see the attached movie for a better understanding.   Request: What is causing the issue and how can we fix it (without having to redo all the affected schedules)   Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+   
+ update mi_cds_info_schedule 
+ set content_type = 'HW_IS', 
+ schedule_type = 01, 
+ hw_input_source = 1000, 
+ hw_atvdtv = -1, 
+ hw_aircable = -1, 
+ hw_majorch = 0, 
+ hw_minorch = 0, 
+ hw_volume = -1, 
+ hw_sch_ch = 01, 
+ content_id = '' 
+ where content_id = 'PANEL_OFF'; 
+ "
+"00263198","Closed","","05.04.2023, 13:59","06.04.2023, 09:24","LH50QHBEBGCXEN","[MIS v9] S10 Devices not recognized as S10","Dear all, please support this case:   - We are running MIS v9 21.1030.0 with some S10 devices. We expected to have S10 devices recognized correctly with the newest version of MIS.   Even though the devices are recognized as S9, Webauthor offers the option to select S10 as the player type. (see attached pictures)   Please provide a fix.   Thank you and best regards, Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+[KONA ID : ]
+? Resolution Details :
+? Follow-up actions : "
+"00261723","Closed","","21.03.2023, 15:57","22.03.2023, 09:23","LH43QMREBGCXEN","[MISv9] Panel Off duration is modified if only one weekday is selected.","Dear Team,   please support the following case:   MIS V9 21.1020.0 PG 12   Description: Panel Off duration is modified if only one weekday is selected.   To reproduce: - Create a new Schedule - Add Panel Off, from 00:00 - 05:59 - Select only Weekly - Sunday - Save - Save Schedule   - Select the newly created Schedule and Edit   Behavior: The time of the Panel Off has been modified (+1h) from 00:00 - 06:59 See the attached Movie.   Please provide a Fix.   Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+[KONA ID : ]
+? Resolution Details :
+Update to 21.1030.0 solved the issue
+? Follow-up actions : "
+"00259185","Closed","","20.02.2023, 10:39","20.02.2023, 12:14","BW-MIP70PA","[MagicInfo] Migration der Lizenzen","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""Wir haben eine bestehende MagicInfo-Instanz mit aktuell 62 Displays.   Wir würden gerne 4 weiter Displays hinzufügen, damit wir dann 66 Displays betreiben können.   Dafür haben wir zwei neue MagicINFO Unified License bestellt:   01015A-L2QW4F-NOQKQ3-JPW7   01015A-7D64RN-SB65PI-I7FT / Diese müssten auf die bestehende Lizenz migriert werden:   01015A-DHD4NH-IXBIOK-IHUX""	 * Customer Request:	 Migration der Lizenzen	 What did the Customer or Service Integrator already try:	 n/a	 * How to get error:	 n/a	 Expected behaviour:	 n/a	 Current behaviour:	 n/a	 PRODUCT INFORMATION:	 * Modelcode:	n/a * Firmware Version:	n/a * Serial Number:	01015A-L2QW4F-NOQKQ3-JPW7, 01015A-7D64RN-SB65PI-I7FT, Migration auf: 01015A-DHD4NH-IXBIOK-IHUX FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	Unified 2 [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#93647783 * Preferred language:	German * Company Address: 	AVS Systeme AG ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Andreas * Lastname: 	Aregger * E-Mail: 	andreas.aregger@avs.ch * Phone: 	0417844545 Mob:	 Address: 	Bösch 45, 6331 Hünenberg Preferred Contact Method: 	 E-Mail:	andreas.aregger@avs.ch Phone: 	0417844545 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+[KONA ID : ]
+? Resolution Details :
+migrated
+? Follow-up actions : "
+"00258447","Closed","","09.02.2023, 10:45","09.02.2023, 13:57","CY-MIASSTS","[MagicInfo Server V9] Database problem after MagicInfo update","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 Yesterday, I updated a customer?s MagicInfo server from v7 to v9. After the update, we now have the problem that the server only works for a short while before becoming slower and slower until it does not load at all anymore, throwing ?Internal server error? messages.   At first, the update (to 21.1020.0) went through fine, but it did not install the MagicInfo service after completion. Consulting the logs showed that there seemed to have been a handle on the tomcat directory that blocked the rename attempt when using the installer?s check. The installer noted ?FAIL? for accessibility of the tomcat directory, but still gave an end result of ?PASS?. Accessing the contents of the tomcat folder seemed to cause no problems (?PASS? on service.bat). So, contents were updated during the update, but after looking at the service.bat I noticed that tomcat 9 was missing, only tomcat 8 was present. I proceeded to copy the tomcat9 executable from the newly created tomcat9x64 folder (iirc) to the tomcat folder and reinstalled the service myself.   After that, the server was up, but I decided to be safe and double check that no handles are open on the tomcat folder before doing another upgrade (to 21.1030.0). This went through fine, but now I have the problem that database connections do not seem to be closed anymore. When the server is newly started, it behaves normally, but after a few actions it starts to become very slow before becoming nonfunctional. Looking through the logs, I notice the following:   [2023-02-07 17:28:04] ERROR [com.samsung.magicinfo.protocol.http.client.WSReverseClientServlet.doGet(WSReverseClientServlet.java:424)] -   java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 5000ms.   When checking the server once this state is reached, I see that there are many Postgres processes running that do not reduce in number over time. Therefore, I assume that the database does not correctly close connections after a query has finished, thus running into the connection limit and refusing any further connections. The database in question is a Postgres 9.3 instance, administrated through PGAdmin III. Additionally, I see a lot of CIFS-related errors that might be due the customer using a LOT of CIFS folders ? of which not all might be available still. The server in question is nearly 11 years old, it is therefore possible that there are quite a few leftovers that have never been checked.   The logs as well as the tail end of the wsrm.log pertaining to this issue are attached. In case your system blocks zip attachments you can also download these at https://we.tl/t-d3w7b3zImY.   I?ve taken the liberty to write in English in order to facilitate possible further communication on this issue. The customer needs the system back up tomorrow evening at the latest, so please do get back to me as quickly as possible.   I will be on location at the customer?s place in about 30 minutes to see if I can do anything about it, but it would be great if you could get back to me in the next 3 hours.   Here's the result of executing the query ""SELECT * FROM pg_stat_activity;"" on the customer's database (I am onsite now):   Furthermore, the config.properties shows a starting connection pool of 10, with a maximum of 70. Username and password are hashed, and there are 24 PostgreSQL processes currently running on the server. * How to get error:	 n/a	 Expected behaviour:	 n/a	 Current behaviour:	 n/a	 PRODUCT INFORMATION:	 * Modelcode:	n/a * Firmware Version:	n/a * Serial Number:	n/a FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	21.1020.0 [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#92269361 * Preferred language:	German * Company Address: 	Screenpro ATTACHEMENTS:	 - Datenbank.png - Logs.zip Customer Details	 * Firstname:	Dennis * Lastname: 	Walter * E-Mail: 	walter@screenpro.ch * Phone: 	0445346577 Mob:	 Address: 	Chriesbaumstrasse 6, 8604 Volketswil Preferred Contact Method: 	 E-Mail:	walter@screenpro.ch Phone: 	0445346577 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+reinstalled
+? Follow-up actions : "
+"00258337","Closed","","08.02.2023, 13:35","08.02.2023, 13:56","LH43QMBEBGCXEN","MCD Downgrade Firmware Request","Dear All can I please request a downgrade firmware for the QxB Series for McDonalds? 
+ can you please check the request attached? 
+ Many Thanks","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+Thank you for the Firmware. SI confirmed it is working as expected.
+? Follow-up actions : "
+"00256539","Closed","","13.01.2023, 09:02","16.01.2023, 11:48","LH43QMREBGCXEN","[MagicINFO] Webauthor display issue","Dear All   MagicINFO Server: 21.2010.0 Webauthor: 21.2010.0 Display: QM43R Firmware: T-KTM2ELAKUC-2370.2   Issue: When using the webauthor and create a content, then the webauthor is showing the content right, while the screen is not showing it the same way:   Webauthor: webauthor.jpg   Screen: screenorg.jpg     I have attached a sample content which shows the same issue.   Many Thanks Best Regards sam","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : DF230202-00681]
+? Resolution Details :
+Technical Guide was provided  "
+"00254612","Closed","","09.12.2022, 16:24","09.12.2022, 16:31","CY-MIASSTS","[Cloned] MagicInfo 9 / Webauthor / Error Message / Oops! (403)","Hi all, 
+ When my customer tries to open WebAuthor , he gets Error 403 Message ""MagicINFO Server version is lower than current WebAuthor"" . We already checked server xml and cofig.properties but we could not find any wrong entries. 
+ Server Version is MagicInfo Server 9 // 21.1020.0  This server was a MIP9 freshinstall. Picture of error, logs, Fieldchecklist and config.properties are attached (confidential entries are deleted for sharing purposes) 
+ Can you please support me in this case? 
+ best regards 
+ Samuel","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+Resolved by adding the HTTP connector to the server.xml. 
+? Follow-up actions : "
+"00253518","Closed","","23.11.2022, 17:17","24.11.2022, 12:04","LH65WMRWBGCXEN","[LH65WMR] Steuerung per TCP/IP","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 mehrere Flip 2 WM65R soll per TCP/IP gesteuert werden, dies funktioniert soweit auch, es soll aber auch das Screensharing per TCP/IP getrickert werden. Des weiteren wird bei Source-Abfrage immer HDMI1 als Source zurückgesendet egal auf welcher Quelle der Flip gerade steht	 * Customer Request:	 Technical Guide / Help	 What did the Customer or Service Integrator already try:	 	 * How to get error:	 	 Expected behaviour:	 	 Current behaviour:	 	 PRODUCT INFORMATION:	 * Modelcode:	LH65WMR * Firmware Version:	1210 * Serial Number:	NA FW, sub (1,2,3): 	 Server OS: 	 Database version: 	 [LFD] MagicInfo Version:	 [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	23.11.2022 * Preferred language:	German * Company Address: 	Auviso AG, Spinnereistraße 5,6020 Emmenbrücke ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Simon * Lastname: 	Müller * E-Mail: 	simon.mueller@auviso.ch * Phone: 	 Mob:	 Address: 	 Preferred Contact Method: 	 E-Mail:	simon.mueller@auviso.ch Phone: 	 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+[KONA ID : ]
+? Resolution Details :
+Case can be closed, SI is informed that setSource is officially supported, but getSource isn't. So it is not a defect. 
+? Follow-up actions : "
+"00253485","Closed","","23.11.2022, 13:05","23.11.2022, 18:27","CY-MIASSTS","[MagicINFO V8 / MagicINFO 9] Temporäre Lizenzen","* Problem Description:	 ""Ich muss von einem Kunden 108 Geräte auf einen neuen Magicinfo Server zügeln. Dies würde ich gerne via altem Magicinfo Server auf den Geräten anpassen. Der Lizenzschlüssel soll nach der Migration auf den neuen Server installiert werden.   Ist es für den Migrationszeitraum möglich, eine temporäre Lizenz für 108 Geräte zu erhalten, die auf dem neuen Server installiert wird? Das würde das Ganze massiv vereinfachen. 2 Wochen Laufzeit würde genügen.""	 * Customer Request:	 	 What did the Customer or Service Integrator already try:	 	 * How to get error:	 	 Expected behaviour:	 ""-Zielserver: MagicINFO 9 Server 21.1010.2   -Windows Server 2022     Ursprungsserver: MagicINFO V8 build NA-MICS-20.1010.10""	 Current behaviour:	 	 PRODUCT INFORMATION:	 * Modelcode:	 * Firmware Version:	 * Serial Number:	 FW, sub (1,2,3): 	 Server OS: 	Windows Server 2022 Database version: 	 [LFD] MagicInfo Version:	MagicINFO V8 build NA-MICS-20.1010.10 / MagicINFO 9 Server 21.1010.2 [LFD] Webauthor Version: 	 [HTV] Software Solution: 	 [HTV] Coax or IPTV connection: 	 [MONITOR] Signalübertragung (HDMI, DP?):	 CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	22.11.2022 @ #81502153 * Preferred language:	German * Company Address: 	""CUBER GMBH, Industriestrasse 26, 3175 Flamatt   "" ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Nando * Lastname: 	Sager * E-Mail: 	nando.sager@cuber.swiss * Phone: 	058 510 98 60 Mob:	 Address: 	 Preferred Contact Method: 	 E-Mail:	nando.sager@cuber.swiss Phone: 	058 510 98 60 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+Support during migration. Solved by mail
+? Follow-up actions : "
+"00250721","Closed","","14.10.2022, 17:13","19.10.2022, 12:31","LH43QMREBGCXEN","[MISv9] DataLink custom SSL certificate - fail in DLK linking","Dear Team, Please support the following case:   MagicINFO9 Server 21.1020.0 DataLink 8 Server 20.1000.3   Description: -	Using DataLink with a custom SSL Certificate (well-known CA, not even a self-signed one) fails in connecting tables in DLK   Steps to reproduce: -	Add custom SSL certificate to DataLink Server. -	Create the Link to the SSL DataLink Server in MagicINFO (Settings ? External Server Settings ? DataLink) o	Use SSL ? True -	Assign the needed Table from the DataLink Server to the organizations -	Create a new DLK file using Webauthor   Expected behavior: -	Can use Data from the SSL Connected DataLink in DLK Current behavior: -	Webauthor cannot find any Data from the SSL DataLink Server, even if the server and Tables are seen.   Please check the attached video. The issue is shown there.   Thank you in advance for your support. Warm regards Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+After looking in to the MI Server config file the key  ""keystore.identity.path""  still uses  ""C:/MagicInfo Premium/runtime/keystore/MagicInfoCertG2.jks""  can you please update it to  ""C:/MagicInfoDataLink/DataLinkServer/runtime/keystore/wildcardsesg2022.jks ""   and also update same in  datalink server config.properties  file.
+And restart the server (both MI and DataLink) 
+? Follow-up actions : "
+"00250328","Closed","","11.10.2022, 08:43","11.10.2022, 08:45","LH13QBREBGCXEN","[Event Trigger] Request of clarification - DLK/LFT","Dear Team,   please help us understand the following behavior:   Using an External (UDP) event trigger on QB13R works fine if displaying an LFD. ISSUE: If I publish a DLK, the QB13R stops reacting to UDP triggers.   The same setup and content work in all cases using a WM55R (LFD and DLK).   Request: Can you please confirm that the UDP Event trigger is expected to work on DLK/LFT?   Warm regards, Thomas   QB13R on FW 2370.2 QM55R on FW 2172.0","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+[KONA ID : DF221110-00650]
+? Resolution Details :
+Test FW was provided to Customer, and was confirmed. "
+"00242426","Closed","","20.06.2022, 14:42","21.06.2022, 08:26","BW-MIE70NA","[Cloned] [INSIGHT] Can not activate organization on MI Insight - related to Case Number 00222932","Dear all, Please assign to Devesh. 
+ Hello Devesh, You already fixed the exact same issue on our servers before. Today I reinstalled Insight from scratch (New VM). 
+ The Issue is exactly the same as before (see related Ticket Case Number 00222932) I followed your Findings from the last case, but there is still no way to activate Organization on MI server. 
+ Could you support me again? 
+ Thank you and best regards, Thomas 
+ ****old Ticket **** 
+ 
+ Dear Team, Please support the following Insight Case:   MIS v9 21.1000.3Insight v9	NA-MIIS-21.1000.1No Proxy used / Devices, MIS and MI Insight are on the same network   After the Installation of MI Insight, we were able to connect MI server to MI Insight Server. The Insight license activation was successful.   Issue: Activating an Organization for Insight fails because Insight sees no Organization. Please See the attached Image and Video   Request: Would you please support us in fixing our Insight issue?   Thank you and best regardsThomas","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+? Resolution Details :
+? Follow-up actions : "
+"00239907","Closed","","13.05.2022, 09:27","13.05.2022, 11:56","LH55WMHPTWC/EN","[WM55H] SMTP Einrichtung anpassen","GENERAL/REQUEST INFORMATION: - *Problem Description: Der Kunde möchte gerne SMTP einrichten, jedoch möchte er von der Basic Authentifikation weg und nur über ein IP Whitelisting E-Mails versenden. Der Flip ist nicht immer zugänglich und der Techniker sollte sich zuerst kurz bei Ihm melden, damit sichergestellt werden kann, dass er den Zugriff zum Flip hat. Der Kunde ist heute (13.05.22) bis um 16:00 vor Ort.   - Customer Request:   - What did the Customer or Service Integrator already try: - *How to get error: - - 1. SMTP Einrichten. - 2. - Expected behaviour: - Current behaviour   PRODUCT INFORMATION - *Modelcode: WM55H - *Firmware Version: 1001.2 - FW, sub (1,2,3):	 - Server OS: XXX - Database version: - [LFD] MagicInfo Version: XXX - [LFD] Webauthor Version: - [HTV] Software Solution: - [HTV] Coax or IPTV connection: - *[MONITOR] Signalübertragung (HDMI, DP?): kein Monitor   CUSTOMER INFORMATION: - *Ticket Entry: by Voice @ 13.05.22, 09:17 - *Preferred language: german - *Company Address: PH Bern   ATTACHEMENTS: - Keine","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+SMTP need userID and PW (according to the manual)
+shared new firmware with customer.
+? Follow-up actions : "
+"00238585","Closed","","27.04.2022, 13:54","27.04.2022, 19:09","LH50QMRABGCXEN","[QM50R-A] PIN aktiv und Fernbedienung gesperrt, kein Zugriff möglich","GENERAL/REQUEST INFORMATION: - *Problem Description: Der Sicherheitscode/PIN ist auf dem QM50R-A aktiviert. Die PIN Eingabe ist nicht möglich da die Fernbedienung ebenfalls gesperrt ist. Der Kunde fragt nach den Möglichkeiten um die Sperre zu entfernen.   - Customer Request: Bonjour, j?ai un petite problème avec un QM50R-A , il a le bloc sécurité activer et la télécommande bloquer , donc je ne peux pas insérer les chiffres pour le code. A-t-il un système via USB pour le débloquer ou autre chose que je peux faire ??   - What did the Customer or Service Integrator already try: - *How to get error: - - 1. Pin aktiv - 2. Fernbedienung gesperrt - Expected behaviour: - Current behaviour   PRODUCT INFORMATION - *Modelcode: LH50QMRABGCX/EN - *Firmware Version: keine Angaben - FW, sub (1,2,3): -	 - Server OS: - - Database version: - - [LFD] MagicInfo Version: - - [LFD] Webauthor Version: - - [HTV] Software Solution: - - [HTV] Coax or IPTV connection: - - *[MONITOR] Signalübertragung (HDMI, DP?): kein Monitor   CUSTOMER INFORMATION: - *Ticket Entry: by E-Mail @ April 27, 2022 11:12:43 AM - *Preferred language: french - *Company Address: Bossi Radio TV, Via al Gas 9, 6850 Mendrisio   ATTACHEMENTS: - keine   Customer Details Firstname: Alain Lastname: Bossi E-Mail: info@videopro.ch Phone: +41 91-646.14.79 Address: Keine Angaben erhlaten. Preferred Contact Method: E-Mail: info@videopro.ch Language: french","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+solved using MDC. case closed.
+? Follow-up actions : "
+"00236809","Closed","","01.04.2022, 15:34","01.04.2022, 15:40","LH55WMRWBGCXEN","[WMR] Impossible to export when content is overlapping between 2 pages","Dear all,   A customer had issue while exporting one of his file on his WM55R. He tried over email, mobile and USB and it wasn't working propely. In the middle of the export process, the flip turns black and go back to a blank Roll. After that, the .iwb format is successfully exported but not the PDF.   I imported his file on my Flip and I could reproduce the issue. After few tests, I found out that what is causing the issue is that user draw between 2 pages so the content is sort of overlapping.   When I deleted the overlapping drawings, the export worked like a charm.   In my opinion it looks like a bug, so would it be possible to escalate it to HQ for a fix ?   Please find attached two pictures of the overlapping content circlred in red.   Kind Regards, Walid  ","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+? Resolution Details :
+This ticket was closed by our policy because the response from customer was delayed over one week.
+Please do re-opened or create a new case if you get response later from customer. "
+"00234778","Closed","","07.03.2022, 17:43","07.03.2022, 17:59","LH40MDCPLGC/EN","[LH40MDCPLGC/EN] Follow Up zu Ticket 00234640 - Software Download zustellen","GENERAL/REQUEST INFORMATION: - *Problem Description: Folge Ticket zu Salesforce Case 00234640. Der Kunde wurde von Thomas Beck zu MagicInfo Lite informiert. Nun fragt er einen Link zum Download der Software an.   Bitte dem Kunden Download Links zustellen. Wir wissen anhand der Infos im Ticket 00234640 nicht was dem Kunden mitgeteilt wurde.   - Customer Request: Egregi signori Vi ringrazio di avermi prontamente contattato Per le informazioni sul software Magicinfo Lite Mi potete dare un link per scaricare questo software   Grazie e saluti TARGA RENATO   - What did the Customer or Service Integrator already try: - - *How to get error: - - 1. - - 2. - - Expected behaviour: - - Current behaviour: -   PRODUCT INFORMATION - *Modelcode: LH40MDCPLGC/EN - *Firmware Version: keine Angaben - FW, sub (1,2,3): - - Server OS: - - Database version: - - [LFD] MagicInfo Version: - - [LFD] Webauthor Version: - - [HTV] Software Solution: - - [HTV] Coax or IPTV connection: - - *[MONITOR] Signalübertragung (HDMI, DP?): satsystemsa@bluewin.ch   CUSTOMER INFORMATION: - *Ticket Entry: by E-Mail #45807193 @ March 4, 2022 5:02:38 PM - *Preferred language: french/itaien - *Company Address: SATSYSTEM SA, Centro luserte 4, 6572 QUARTINO   ATTACHEMENTS: - keine","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Provided contact to MagicINFO Certified partner in Ticino. (Also provided MI Express 2 downloadlink, with the info it is EOL and we will not provide any support on MI Express)
+? Follow-up actions : "
+"00234640","Closed","","04.03.2022, 15:15","04.03.2022, 15:31","LH40MDCPLGC/EN","[LH40MDCPLGC/EN] Fragen zur Nutzung des Gerätes mit MagicInfo Software","- *Problem Description: Aktuell wird per USB Stick Inhalt auf dem LH40MDCPLGC/EN abgespielt. Der Kunde möchte nun vom PC direkt Inhalt auf das Gerät senden und hat nun einige Fragen dazu:   - Würde es mit MagicInfo Lite funktionieren? - Ist MagicInfo Lite kostenlos oder wird eine Lizenz benötigt? - Gibt es eine andere Software, die dies (Inhalt vom PC auf den Bildschirm übertragen und anzeigen lassen) ermöglichen kann?   Gemäss Kunde handelt es sich um ein Gerät und mit einem simplen Content (Keine Angaben zum Content erhalten).   - Customer Request: Bonjour messieurs On as un signage monitor Samsung LH40MDCPLGC/EN   Chez un client qui fait marché avec USB les contenu. Maintenat il veut le faire par ordinateur du boureau   La question est simple : on peut le faire marche avec le programme INFOMAGIC LITE le software est gratuito u il faut des licence ?   ou il y a autre software pour faire ca ? seul un appareil connecté et contenu tres sample   merci et salutation TARGA RENATO   - What did the Customer or Service Integrator already try: - *How to get error: kein Error - 1. - - 2. - - Expected behaviour: - - Current behaviour: -   PRODUCT INFORMATION - *Modelcode: LH40MDCPLGC/EN - *Firmware Version: keine Angaben - FW, sub (1,2,3): - - Server OS: - - Database version: - - [LFD] MagicInfo Version: - - [LFD] Webauthor Version: - - [HTV] Software Solution: - - [HTV] Coax or IPTV connection: - - *[MONITOR] Signalübertragung (HDMI, DP?): kein Monitor   CUSTOMER INFORMATION: - *Ticket Entry: by E-Mail #45755018 @ March 4, 2022 11:07:11 AM - *Preferred language: french - *Company Address: SATSYSTEM SA, Centro luserte 4, 6572 QUARTINO   ATTACHEMENTS: - keine","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Informed Customer about MI Lite. Ticket can be closed. 
+? Follow-up actions : "
+"00234276","Closed","","01.03.2022, 09:04","01.03.2022, 11:23","LH55QMREBGCXEN","[DataLink v9] Installation fails on PG12","Dear team, Please support this case: Description: Customer installs DataLink v9 21.1000.4 on a new server running Postgresql 12.10. The installation runs smoothly, but no tables are inserted into the newly created datalink database. No Error Messages during installation. Can it be reproduced? Yes Steps to reproduce: See attached movie file. https://sesg.sharefile.com/d-sc2455283095642c4a7e69de79e8cae3c ?	Install Postgresql 12.10. ?	Start DataLink installation ?	Select « express Installation » and default settings ?	Go through the installation ?	Try to login to datalink Webservice ?	Check database using PGAdmin Request : ?	Provide a new installer for DataLink v9 Thank you and best regards. Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+We  no longer have RC plan for DataLink Server .Cloud-based  MagicINFO Multi-tenant  will be released soon in Jun this year,And  Datalink server, which will be applied to it, will be release in 4Q .This Datalink Server will be mapped to the postgreSQL uppper verion. (ver. 12 or 13)
+Customer Informed.
+? Follow-up actions :
+  "
+"00234013","Closed","","24.02.2022, 14:57","24.02.2022, 15:27","LH55QMREBGCXEN","[Iplayer] Please share official System requirements for I-Player","Dear Team   could you please share official system requirements for an I-Player system?   - Which Windows Versions are supported? - What are the minimum required hardware specs?   Thank you Warm regards, Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+[KONA ID : ]
+? Resolution Details :
+I-Player supports only Windows 10.
+? Follow-up actions : "
+"00231357","Closed","","18.01.2022, 10:52","18.01.2022, 12:07","CY-MIPSSTS","[MIv8] Probleme beim Update","GENERAL/REQUEST INFORMATION: -	*Problem Description: Siehe CR -	Customer Request:   Es gibt bei unserem Serverpartner ein Problem mit dem Update Magic Info von 8auf 9.   Anbei die Fehlerbeschreibung: Beim MagicInfo Server Update auf die Version 9 erscheint beim Update der PostgreSQL Datenbank folgende Fehlermeldung:     Migration V211010.0__Update.sql failed   --------------------------------------   SQL State : 23502   Error Code : 0   Message : FEHLER: Spalte »organization_id« enthält NULL-Werte   Location : D:\Program Files\MagicInfo Premium\flyway\sql_postgres\V211010.0__Update.sql (D:\Program Files\MagicInfo Premium\flyway\sql_postgres\V211010.0__Update.sql)   Line : 3   Statement : -- [V9 RC #17] Dashboard Device Status info by ORG   ALTER TABLE MI_STATISTICS_CONNECT_HOUR ADD COLUMN ORGANIZATION_ID DECIMAL(10, 0) NOT NULL   Bitte um schriftliches Feedback bis Morgen 10uhr den 18.1.2022   -	What did the Customer or Service Integrator already try: -	*How to get error: -	1. Siehe CR -	2. -	Expected behaviour: -	Current behaviour   PRODUCT INFORMATION -	*Modelcode: XXX -	*Firmware Version: XXX -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: V8 build NA-MICS-20.1010.10 -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Ticket Entry: by MAIL @ marc.mock@arvis.ch -	*Preferred language: DE -	*Company Address: Biberenzelgli 18, CH-3210 Kerzers","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+Case has been discussed via Email.
+? Follow-up actions : "
+"00226255","Closed","","22.10.2021, 16:00","25.10.2021, 10:53","LH55UHFHLBB/EN","UH55F | Keine Anzeige nach Einschalten","GENERAL/REQUEST INFORMATION: - *Problem Description: Hallo Sam, das Gerät schaltet ein, bleibt jedoch schwarz. Bitte möglichen Hardware Fehler klären.   Danke Remo   - Customer Request: Nous avons un appareil Samsung défectueux.   Modèle: LH55UHFHLBB/EN S/N: 08XQHSLJ600187X   Défaut : l?écran s?allume mais reste noir.   Merci de me dire si cet appareil est encore sous garantie, et quelle est la procédure ?   - What did the Customer or Service Integrator already try: - *How to get error: - - 1. einschalten - 2. bleibt schwarz - Expected behaviour: - Current behaviour   PRODUCT INFORMATION - *Modelcode: LH55UHFHLBB/EN - *Firmware Version: keine Angaben - FW, sub (1,2,3):	 - Server OS: XXX - Database version: - [LFD] MagicInfo Version: XXX - [LFD] Webauthor Version: - [HTV] Software Solution: - [HTV] Coax or IPTV connection: - [KNOX] KNOX Solution, Version: XXX - [KNOX] MDM Solution, Version: XXX - [KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: - *Ticket Entry: by E-Mail @ 22.10.21, 11:33:48 AM - *Preferred language: french - *Company Address: Technicongres SA, Zéphyre 1 CH-1817 Fontanivent   ATTACHEMENTS: - keine","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+No further contact from SI. I am closing the ticket. Please open a new one in case the issue reappears.
+? Follow-up actions : "
+"00225326","Closed","","08.10.2021, 16:51","11.10.2021, 11:08","CY-MIPSSTS","[MI] Offline Lizenzaktivierung","GENERAL/REQUEST INFORMATION: -	*Problem Description: Siehe CustomerRequest -	Customer Request:   Bitte erstellen Sie anhand des MagicInfo Lizenzschlüssels im Anhang ein neues Offline Aktivierungsfile.   Lizenzschlüssel: 01015A ? 26OEFB ? 2HQS75 -ZKBP Hardwareschlüssel: 6A18BC67EDE64877   -	What did the Customer or Service Integrator already try: -	*How to get error: -	1. Lizenzaktivierung -	2. - -	Expected behaviour: - -	Current behaviour: -   PRODUCT INFORMATION -	*Modelcode: - -	*Firmware Version: - -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: MagicInfo Server, keine genaue Versionsangabe vom Kunden erhalten -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Ticket Entry: by MAIL -	*Company Address: Kasernenstrasse 97, Postfach 64, CH-7007 Chur -	*Sprache des Kunden: DE -	Eingangszeitpunkt der Anfrage: Friday, October 8, 2021 3:11:27 PM","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Activation file has been sent to SI. The ticket can be closed.
+? Follow-up actions : "
+"00224411","Closed","","23.09.2021, 16:56","23.09.2021, 21:13","CY-MIPSSTS","[MIv8] (follow-up: 00223799) Verbindungs- & Zertifikatsprobleme mit interner Website","GENERAL/REQUEST INFORMATION: - *Problem Description:   Der Kunde betreibt einen MagicInfo Server und hat mehrere verschiedene Signage Displays. Er versucht auf seinen Displays eine interne Website anzuzeigen, was jedoch nicht funktioniert (Fehlermeldung: This page can't be displayed"" Description = Unknown"") und er kommt nicht mehr weiter.   Der Kunde hat per Email gefragt, wann er eine Rückmeldung zu seinem Case erhalten wird. Wir haben ihn informiert, dass er bereits vom Spezialisten kontaktiert wurde.   Nun schreibt er, dass er mit der Antwort vom Spezialisten nicht zufrieden ist und er glaubt, dass es trotzdem eine Lösung dafür geben muss.   - Customer Request: I know this answer and I have it before to opened this case. I need to understand but we are able to install our own certificate on TV. It make no sense , if it working. Screen give us this ability to do, it's possible: (See Attachment)   - What did the Customer or Service Integrator already try: - *How to get error: - 1. Auf den Displays interne Website (URL) anzeigen lassen. - 2. - Expected behaviour: Website sollte durch die Displays erfolgreich aufgerufen werden. - Current behaviour: Aufrufen der internen Website nicht möglich   PRODUCT INFORMATION - *Modelcode:   QM32-T -> KTM2ELAKUC-2122.1 QH75R -> KTM2ELAKUC-2220.5 SBB-SS08NL1 -> KTM2SPMDWWC-1030.5 QH43R -> KTM2ELAKUC-2220.5   - *Firmware Version: Siehe oben unter ""Modellcode"" - FW, sub (1,2,3): - Server OS: XXX - Database version: - [LFD] MagicInfo Version: V8 build NA-MICS-20.1010.7 - [LFD] Webauthor Version: - [HTV] Software Solution: - [HTV] Coax or IPTV connection: - [KNOX] KNOX Solution, Version: XXX - [KNOX] MDM Solution, Version: XXX - [KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: - *Ticket Entry: by MAIL - *Company Address: Place de Milan, CP 120, CH-1001 Lausanne - *Sprache des Kunden: EN - Eingangszeitpunkt der Anfrage: Thursday, September 23, 2021 11:21:34 AM","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+ these Certificates are intended for a Certificate based network authentication (IEEE802.1x), not for Secure HTTP connections . 
+This is not a bug, but how the SoC is designed.
+? Follow-up actions : "
+"00220784","Closed","","23.07.2021, 15:48","26.07.2021, 07:35","SBB-SS08NT2XEN","SBB | Frage zu WiFi Frequenz","GENERAL/REQUEST INFORMATION: -	*Problem Description: Kunde hat eine Frage zu den Spezifikationen von SBB-SS08NT2XEN & SBB-SS08NL1/EN   -	Customer Request: Hello I would like to know the PC ModulSamsung SBB-SS08NT2XEN and SBB-SS08NL1EN in WiFi mode wich frequency does it support? 2,4GHz or combined 2,4 and 5 GHZ ??   PRODUCT INFORMATION -	*Modelcode: SBB-SS08NT2XEN, SBB-SS08NL1/EN -	*Firmware Version: Frage zu Hardwarespezifikation   CUSTOMER INFORMATION: -	*Preferred contact method: E-Mail info@videopro.ch / Phone call 076 371 3654 -	*Company Address: Ravarelli Radio TV di Alain Bossi, Via al Gas9, 6850 Tessin -	Language: EN -	Entry-Time of Mail/Call: 22.07.21 17.12   ATTACHEMENTS: Screenshot von Ticket","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Replied by mail.
+? Follow-up actions : "
+"00220177","Closed","","14.07.2021, 14:00","14.07.2021, 14:54","CY-MIPSSTS","[MIv9] Remote Management Server Lizenz Anliegen","GENERAL/REQUEST INFORMATION: - *Problem Description: Der SI braucht eine Remote Management Server Lizenz mit 10 Geräten. Er sagt jedoch auch, dass ein Remote Management Server im MIv9 nicht mehr als Standalone gibt und er deswegen eine normale MI Lizenz mit 10 Geräten kaufen müsste.   Nun ist seine Frage, ob er eine Demo-Lizenz für diesen Zweck erhalten kann.   Er hat versucht dies per ""Free License"" etc zu lösen, kommt jedoch nicht weiter.   - Customer Request: Wir brauchen eine Remote Management Server Lizenz gebraucht. Also 1 x normale MI Lizenz mit 10 Display's da es beim MIv9 kein Remote Mgmt Server mehr als Standalone gibt, sondern nur mit einer normalem MI Server Lizenz betrieben wird.   - What did the Customer or Service Integrator already try: - *How to get error: - - 1. Anfrage - 2. - Expected behaviour: - Current behaviour   PRODUCT INFORMATION - *Modelcode: - *Firmware Version: Keine Angaben erhlaten. - FW, sub (1,2,3):	 - Server OS: XXX - Database version: - [LFD] MagicInfo Version: MI v9 21.1000.3 - [LFD] Webauthor Version: - [HTV] Software Solution: - [HTV] Coax or IPTV connection: - [KNOX] KNOX Solution, Version: XXX - [KNOX] MDM Solution, Version: XXX - [KNOX] IMEI or Serial number: XXX   PRODUCT INFORMATION -	*Modelcode: XXX -	*Firmware Version: XXX -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: MI v9 21.1000.3 -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Preferred contact method: Phone call -	*Company Address: Birkenstrasse 43b, 6343 Rotkreuz -	Language: DE -	Entry-Time of Mail/Call: 14.7.21, 13:45","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+solved per mail
+? Follow-up actions : "
+"00217885","Closed","","09.06.2021, 10:04","15.06.2021, 11:38","BW-MIP30PS","BW-MIP30PS | Lizenzumwandlung zu BW-MIP70PA","GENERAL/REQUEST INFORMATION: - *Problem Description: Hoi Näsch bitte Lizenz im Anhang zu Unified 2 konvertieren. Die Lizenzen sind noch nicht genutzt, der Server wird erst aufgesetzt.   Part Number :: BW-MIP30PS License Number : 010121-QNMGNV-CBT7TA-EV6Y Number of Devices:: 3   - Customer Request: Ist es Ihnen möglich, das Dreierpack MIP30-Lizenzen im Anhang in neue, MIP70, zu konvertieren. Die Lizenzen sind unbenutzt und würden auf einen neuen Server zum Einsatz kommen, ein komplett neuer Key wäre also ideal.   Freundliche Grüsse   Jonathan Meier BavariaTech AG 071 244 41 41   PRODUCT INFORMATION - *Modelcode: BW-MIP30PS - *Firmware Version: 010121-QNMGNV-CBT7TA-EV6Y - [LFD] MagicInfo Version: -   CUSTOMER INFORMATION: - *Preferred contact method: E-Mail jonathan@bavariatech.ch / Phone call 071 244 41 41 - *Preferred language: german - *Ticket Entry: 4:08:51 PM - *Company Address: BavariaTech GmbH Speicherstrasse 60 9000 St.Gallen   ATTACHEMENTS: - Lizenz PDF","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Migration wurde im April erledigt. Kunde Informiert
+? Follow-up actions : "
+"00217268","Closed","","31.05.2021, 08:19","31.05.2021, 17:23","LH55QMREBGCXZA","[MISv8] Content Synch, Request of technical network details","Dear Team,   -	The customer (a swiss bank) asks for Detailed Technical information about how devices are synchronized with each other. -	Use Case: a few devices are playing the same content. In Schedule Options, the ?Synch Content? is on o	 Customers IT wants to block every communication from the screen and whitelist only the server (screen to screen communication should also be stopped) o	 To allow Synch, they need to know what type of communication is happening and what needs to be allowed   Can you please clarify this point for us? -	Specs of the device communication in case of Synch / (or Videowall setup) -	What needs to be allowed in Firewall to allow content synch   Thank you in advance for your support   Warm regards, Thomas  ","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+? Resolution Details :
+NO Feedback from Customer for a long Time. Closing Ticket
+? Follow-up actions : "
+"00214640","Closed","","16.04.2021, 11:33","20.04.2021, 09:50","CY-MIPSSTS","[MI v8] Lizenzmigration Unified1 -> Unified2","GENERAL/REQUEST INFORMATION: -	*Problem Description: Der Kunde hat seinen Server von v7 auf v8 geupdated und möchte nun die Unified1 Lizenz in eine Unified2 Lizenz umwandeln. -	Customer Request:   Folgend die Lizenz, welche umgewandelt werden soll: 01014A-IEVFDJ-K6WQIY-2MCT (Unified Player License)   -	What did the Customer or Service Integrator already try: -	*How to get error: -	1. Kein Fehler -	2. -	Expected behaviour: -	Current behaviour   PRODUCT INFORMATION -	*Modelcode: XXX -	*Firmware Version: XXX -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: v8 -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Preferred contact method: E-Mail / Phone call (both) -	*Company Address: Bösch 45, CH - 6331 Hünenberg -	Language: DE -	Entry-Time of Mail/Call: 07:39, 16.4.21","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+License is migrated, case can be closed. 
+? Follow-up actions : "
+"00214498","Closed","","14.04.2021, 18:14","14.04.2021, 18:24","LH24QBRTBGCXEN","[Touch] How to Deactivate Multi Touch (Pinch Zoom)","Dear Team, 
+ We have a PoC Running for Swisscom, the biggest swiss ICT provider. During the tests, we had the following issue: Please see the Video here: https://vimeo.com/sesgpresales/review/536868829/bf40ded8e9 
+ -           The customer uses a WebURL to show an interactive Product information Page -           The user in front of the screen uses the touch features to control the information -           The Pinch Zoom (Two finger Zoom) is active by default on the device 
+ Our Request: -           Can you please provide a guide to deactivate multi-touch (Pinch Zoom) functions on the device? 
+ The Pinch Zoom is one of the main issues we are experiencing. If we can fix this, we will hopefully get the go-to roll out in all the stores. 
+ Facts : Swisscom: 19000 employees in Switzerland and Italy; 120 Shops in Switzerland Tested Device: QB24R-T , Firmware T-KTM2ELAKUC-2200.1   Thank you and best regards, Thomas ","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+Pinch Zoom can not be deactivated.
+? Follow-up actions : "
+"00214372","Closed","","13.04.2021, 15:33","26.04.2021, 11:11","CY-MIPSSTS","[MI] Lizenzaktivierung Fehlerhafte Anzahl Geräte","GENERAL/REQUEST INFORMATION: -	*Problem Description: Vorheriges Ticket -> 00213655 -	Customer Request:   Wie uns der Kunde soeben mitteilte, sind im Aktivieurngsfile nur 86 Geräte aktiv und nicht wie es eigentlich sein sollte 91. Das gleiche Problem hatten wir nun schon öfters.   Besten Dank für die schnellstmögliche erneute Zustellung des korrigierten Files.   -	What did the Customer or Service Integrator already try: -	*How to get error: -	1. Lizenz aktivieren -	2. -	Expected behaviour: Korrekte Anzahl Geräte (91) aktivieren -	Current behaviour: Zu wenig Geräte (nur 86) wurden aktiviert   PRODUCT INFORMATION -	*Modelcode: XXX -	*Firmware Version: XXX -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: Unknown -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Preferred contact method: E-Mail / Phone call (both) -	*Company Address: Kasernenstrasse 97, Postfach 64, CH-7007 Chur -	Language: DE -	Entry-Time of Mail/Call: 1.4.21, 14:19","[RESOLUTION REPORT] 
+ Type of Resolution : H/W Replacement 
+? Resolution Details :
+AktivierungsKey zugestellt. 
+? Follow-up actions : "
+"00212193","Closed","","10.03.2021, 17:16","10.03.2021, 17:18","LH32OMHPWBC/EN","7000er Firmware Request","Dear All please check the reqeust attached to this case and provide the 7000er firmware to fullfill the rollout at customer site.   Many Thanks Best Regards sam","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+FW was provided to the SI. 
+? Follow-up actions : "
+"00211472","Closed","","01.03.2021, 13:11","01.03.2021, 13:27","LH55OMNSLGB/EN","[OMN] Sensor Value Question","Dear All   Device: OM55N Firmware: 2220.5, 1048, 1004   Question: we have several OMN devices which show a negativ LUX value when we show the eco sensor read data in service menu.   can you tell me what the -xxx Lux value mean and why they are reported as -xxx? when we cover the sensor, it gets to 0 Lux and then when we remove the cover, the value is back to -xxx Lux. I have this only on a fed screens. The once which have a -xxx Lux value are not getting brighter when we remove the cover.   See attached image, two screens, same firmware but one with positive Lux values and the other with negativ lux values.   Many Thanks Best Regards sam","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+? Resolution Details :
+If strong light is reflected, Eco sensor IC Read value is saturation and overflow
+so Apply final Lux value as max(65535) value in case of overflow "
+"00207717","Closed","","22.12.2020, 16:33","22.12.2020, 17:53","LH025IFRTLS/EN","[IFR] Missing FPGA in SLM","Dear Team   can you please provide or upload the actual IFR FPGA Firmware to SecSLM? could not find any online.   Thank you and best regards Thomas  ","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+FPGA provided, Thank you
+? Follow-up actions : "
+"00205745","Closed","","19.11.2020, 08:52","19.11.2020, 11:15","LH55QMREBGCXEN","[WiFi Module] Clarification about used WiFi Bands","Dear Team   an SI is requesting a document that describes which Wireless Bands are used on our Devices. (2.4GHz / 5GHz)   Request: - Can you provide an overview of installed Hardware / Available Wireless Bands for our Devices?   The request is about QMR and QMN, but if such a document exists, please share it for all devices.   Thank you and best regards   Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+There is no overview document about supported WiFi bands in our Devices. 
+has to be checked for every request. 
+? Follow-up actions : "
+"00202745","Closed","","06.10.2020, 08:49","06.10.2020, 11:43","BW-MIP40PA","[License] License reassigned from SESG to SEBN","Dear DSSC Team can you please check why this license was reassigned, from SESG to SEBN? 010121-YUPMI5-6VOSZW-XYIK   -can this happen without any approval from SESG? -Please reassign the regenerated MIP70PA license to SESG.   Thank you and best regards Thomas    ","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+license reassigned to SESG account
+? Follow-up actions : "
+"00200867","Closed","","10.09.2020, 16:47","10.09.2020, 16:50","SBB-Q32AV4/EN","[MI SRV 7] Adding device to server","GENERAL/REQUEST INFORMATION: -	*Problem Description: nachdem das Netzwerk neu erstellt wurde konnte der IPlayer nicht mehr verbunden warden. -	 Ich vermute dass die ServeNetzwerk Adresse fehlt, Kunde kann mir dies jedoch nicht bestätigen und wäre froh wenn jemand per Remote Zugriff mit Ihm das prüfen könnte. TeamViewer wird er installieren. -	Customer Request: benötigt Remote Hilfe bei Verbindung des Iplayers mit dem Server -	What did the Customer or Service Integrator already try: MI Server Version 7 neu installiert, Lizenzen erfolgreich installiert, I-Playewr neu installiert -	*How to get error: -	1. Start I-Player -	2. Access server -	3. No device on server -	Expected behaviour: I Player sollte bei ?unapproved devices? erscheinen -	Current behaviour: keine Verbindung   PRODUCT INFORMATION -	*Modelcode: NA-MIIPS -	*Firmware Version: 7100.2 -	FW, sub (1,2,3):	- -	Server OS: XXX: - -	Database version: - -	[SBB] MagicInfo Version: SBB-Q32AV4/EN, 7100.3 -	 CUSTOMER INFORMATION: -	*Preferred contact method: E-Mail / Phone call: Marc.Sommer@nexus-schweiz.ch / 044 806 11 11 -	*Company Address: NEXUS Schweiz AG Kantonsstrasse 3 6246 Altishofen LU   ATTACHEMENTS: -","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Customer needed support for Iplayer configuration. Resolved with a remote session.
+? Follow-up actions :
+- "
+"00200445","Closed","","04.09.2020, 09:14","04.09.2020, 18:41","SBB-SS08FL1/EN","[SBB-SSF] Issue displaying external HDMI source","Dear team   please support the following case:   Player : SSB SSF FW Player : 	 TB-HMSCFDWWC-2080.3;TB-HKMLBFWWS-1003;TB-NVTLBFWWS-1012 MagicINFO: - Tested on V6.0 Build NA-MIIPS-6002.0 - Tested on V8 build NA-MICS-20.1000.14   Problem description: The Customer is using an SSF box with MagicINFO to switch between Video files and External HDMI input. The display is an SSF compatible device without SoC. The Customer is having issues displaying the HDMI Source.   Expected behavior: - publishing the HDMI source directly to the schedule, HDMI is displayed on the screen. - publishing an .LFD content with HDMI source into the schedule, HDMI is displayed on the screen.   Actual behavior: - publishing the HDMI source directly to the schedule works - publishing an LFD content to the schedule works only if the HDMI Source is not bigger than 960x540px   Please see the attached video and image.   The HDMI source comes from a Windows PC with resolution 1920x1080.   Thank you for your support   Best regards Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+? Resolution Details :
+I resolve this case because of long time pending without any update.
+so it should be closed based on our case management policy. (if there is no update for 1week, it can be closed)
+Anyway SRI-D team already advised DP connection instead of HDMI between SBB and Display, but the customer has not been updated any result for over 10days.
+so if you need further support, please create a new case. "
+"00199904","Closed","","27.08.2020, 12:14","28.08.2020, 04:37","LH13QBREBGCXEN","[Linux-Kernel] Tizen Linux-Kernel question","Dear Team   Ticket is related to 199566 / Please reassign to Richard (WECHEOL LIM)   Dear Richard   Can you please clarify the following related questions:   - How long will the Linux-Kernel 4.1.10 be supported? - Is there a plan to update the Linux-Kernel over a Firmware Update as soon as the Kernel will not longer be officially supported?   The reason why our customer is asking this is that the SBB (Swiss National Public Transportation Company) needs to do a Homologation to every device which is connected to their network.   Thank you very much for your support on this topic   Best regards Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+Provided answer to customer
+? Follow-up actions : "
+"00199825","Closed","","26.08.2020, 14:04","26.08.2020, 14:06","LH65WMRWBGCXEN","[Flip 2] Drag & Drop im Webbrowser","GENERAL/REQUEST INFORMATION: -	*Problem Description: Beim Kunden funktioniert im Webbrowser das Drag&Drop nicht -	Customer Request: -	What did the Customer or Service Integrator already try: -	*How to get error: -	1. Website aufmachen -	2. Drag and Drop funktioniert nicht -	Expected behaviour: -	Current behaviour   PRODUCT INFORMATION -	*Modelcode: LH65WMRWBGCXEN -	*Firmware Version: 1060 -	FW, sub (1,2,3):	 -	Server OS: XXX -	Database version: -	[LFD] MagicInfo Version: XXX -	[LFD] Webauthor Version: -	[HTV] Software Solution: -	[HTV] Coax or IPTV connection: -	[KNOX] KNOX Solution, Version: XXX -	[KNOX] MDM Solution, Version: XXX -	[KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: -	*Preferred contact method: E-Mail -	*Company Address: squareservices, Av. Riond-Bosson 13, 1110 Morges","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+Not a defect
+? Follow-up actions : "
+"00198861","Closed","","11.08.2020, 15:36","11.08.2020, 16:23","","[NFR] Requested 802.1x functionality over wired LAN","Dear Team 
+ please refer to ticket 00196420. 
+ Our Customer, a swiss insurance company, is planning a rollout during 2021. One of the main concerns is security related. Every device that is connected to their network has to support 802.1x Certificate authentication. 
+ Our screens support that on the WLAN side, but not on LAN connection. 
+ Can you please check if that can be added in the next firmware? 
+ 1. Customer Info and Roll-Out Schedule ?? Region of installation ?? Country/City etc Customer : Group Mutuel, Insurance Company / Rollout in Switzerland / nationwide 2. No of devices involved with exact Model no and Size ?? Impacted Business Volume ?? please see BO CH202007070001 in Ticket. OMN and QMR devices / MagicINFO 3. Detail description of scenario which can make strong appeal for this feature's need ?? Company Policy about Network connected devices 4. Timeline for making this feature available ?? The decision is planned in December 2020. Need some time before for PoC. 
+ Thank you for your support best regards 
+ Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+? Resolution Details :
+New test fw provided (2190.22 for 802.1x).
+No further contact from client/ partner - Resolved as per internal process.
+? Follow-up actions : "
+"00198712","Closed","","10.08.2020, 09:26","10.08.2020, 09:45","CY-MIPSSTS","[MI-S] Content can only be edited once","GENERAL/REQUEST INFORMATION: -	*Problem The Customer has a reoccuring issue with MagicInfo Server. When a User edits content once, he cannot edit it a second time. But it is the same user who first edited the content. The use is supposedly not authorized to edit the content For example: Last firday a user edited their content and tried to do it two hours later, but it wasn't possible. -	Customer Request: -	What did the Customer or Service Integrator already try: After saving the content as administrator, the user was able to edit the content again, but only once. -	*How to get error: -	1. Create content in MI, -	2. Edit content, -	3. Cannot edit content again -	Expected behaviour: -	Current behaviour   PRODUCT INFORMATION -	*Modelcode: - -	*Firmware Version: - -	FW, sub (1,2,3):	No Information -	Server OS: No Information -	Database version: No Information -	[LFD] MagicInfo Version: V8.0 build NA-MICS-20.1000.14  -	[LFD] Webauthor Version: No Information -	[HTV] Software Solution: No Information -	[HTV] Coax or IPTV connection: No Information -	[KNOX] KNOX Solution, Version: No Information -	[KNOX] MDM Solution, Version: No Information -	[KNOX] IMEI or Serial number: No Information   CUSTOMER INFORMATION: -	*Preferred contact method: tobias.mueller@lups.ch, +41 58 856 66 77 -	*Company Address: Luzerner Psychiatrie, ICT, Schafmattstrasse 1, 4915 St. Urban","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+Sent webauthor hotfix to customer
+? Follow-up actions : "
+"00198592","Closed","","06.08.2020, 16:30","06.08.2020, 16:32","LH55PMFXTBC/EN","[PM55F-BC] Firmware kann nicht eingespielt","GENERAL/REQUEST INFORMATION: - *Problem Description: Kunde kann das neue Firmware nicht einspielen, es erscheint die Fehlermeldung «Verbindung fehlgeschlagen» - Customer Request: Wants new firmware - What did the Customer or Service Integrator already try: - *How to get error: no error - request - 1.Firmware update - 2. errormeldung - Expected behaviour: - Current behaviour   PRODUCT INFORMATION - *Modelcode: LH55PMFXTBC/EN - *Firmware Version: de neu zugeschickte firmware ist 2120.5 - FW, sub (1,2,3): - Server OS: XXX - Database version: - [LFD] MagicInfo Version: XXX - [LFD] Webauthor Version: - [HTV] Software Solution: - [HTV] Coax or IPTV connection: - [KNOX] KNOX Solution, Version: XXX - [KNOX] MDM Solution, Version: XXX - [KNOX] IMEI or Serial number: XXX   CUSTOMER INFORMATION: - *Preferred contact method: E-Mail - *Company Address: Halter AG","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+? Resolution Details :
+Instructions sent by mail.
+? Follow-up actions : "
+"00196420","Closed","","07.07.2020, 16:03","08.07.2020, 09:07","LH55OMNDPGB/EN","[IEEE 802.1x] Is 802.1x supported on wired LAN connection?","Dear Team 
+ for this opportunity we are faced with the following situation: 
+ The Customer (a swiss insurance company) is planning to install Displays on all of their branches. 
+ A security policy they have is that every device connected to the network needs to support 802.1x Cert authentication. 
+ We support it on the Wireless LAN side, but whats about the Wired side? I'm aware of the fact that it is unusual, but more and more customers are requesting it. 
+ Can you please clarify this for me? are we supporting 802.1x on Wired LAN? 
+ Thank you  Thomas  ","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+This functionality : "" 802.1x functionality over wired LAN "" is NOT SUPPORTED.
+? Follow-up actions :
+NFR created : 00198861 "
+"00193623","Closed","","26.05.2020, 16:31","26.05.2020, 17:34","LH75QBREBGCXEN","Inhalte auf QB75R mit MagicInfo anzeigen","Display Solution Dear Team   Can you check this issue?   Problem Description: Ich würde gerne Inhalte auf meinem Samsung QB75R mit MagicInfo anzeigen können. Wie mache ich das?   Customer Request: Wie kann ich Inhalte anzeigen?   Display Modelcode: LH75QBREBGCXEN Main firmware:	keine Information erhalten FW, sub (1,2,3):	 keine Information erhalten MagicInfo Version: keine Information erhalten Webauthor Version: keine Information erhalten Server OS: keine Information erhalten Database version: keine Information erhalten Java version: keine Information erhalten   Der Kunde wurde per Mail angeschrieben und nach der Version des MagicInfo angefragt. Jedoch hat der Kunde keine Ahnung. Er weiss gar nicht wie das MagicInfo funktioniert.   Thank you & Best Regards Melanie Roos   {{{0.041665}}}{{{call1stLvl}}}","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+? Resolution Details :
+Pending from customer for longtime.
+? Follow-up actions :
+open a new ticket if customer calls again.  "
+"00190343","Closed","","02.04.2020, 14:52","02.04.2020, 16:13","","[NRF] MagicINFO Preset Management - Proxy settings","Dear Team   can you please support this NRF   Swiss Bank BO 1.3M USD   Server in use now: 7100.2 Server planned for Rollout: V8   Displays: QM, OM (S6 Players)   Request: Add the possibility to set Proxy (incl. Authentication and Exceptions) in Device Presets.   Reason: User has different Proxys for different Device Groups. The user uses Presets to deploy settings to de Displays.   Thank you for discussing this request.   best regards Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+? Resolution Details :
+ it was concluded that it was difficult to apply
+System paralysis may occur if Proxy Setting is not done properly due to administrator error.  So, we have reviewed whether validation check is possible on the server,  Since the validity of proxy is valid only on the network where the device is located,  It is said that validation cannot be checked on the MagicINFO server with only input values.
+? Follow-up actions : "

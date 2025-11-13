@@ -53,7 +53,7 @@ export const llmClient = {
    },
    async summarizeReviews(reviews: string) {
       const output = await ollamaClient.chat({
-         model: 'tinyllama',
+         model: 'llama3.1',
          messages: [
             {
                role: 'system',
@@ -68,13 +68,17 @@ export const llmClient = {
       return output.message.content || '';
    },
 
-   async chatSESG(instructions: string, request: string) {
+   async chatSESG(instructions: string, oldData: string, request: string) {
       const output = await ollamaClient.chat({
-         model: 'tinyllama',
+         model: 'hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:Q4_K_M',
          messages: [
             {
                role: 'system',
                content: instructions,
+            },
+            {
+               role: 'user',
+               content: `This is the old case data to compare to:  ---- ${oldData} ----`,
             },
             {
                role: 'user',

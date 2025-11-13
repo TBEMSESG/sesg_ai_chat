@@ -19,6 +19,7 @@
    "dependencies": {
       "@huggingface/inference": "^4.13.2",
       "@prisma/client": "^6.19.0",
+      "csv-parse": "^6.1.0",
       "dayjs": "^1.11.19",
       "dotenv": "^17.2.3",
       "express": "^5.1.0",

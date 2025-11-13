@@ -1,0 +1,103 @@
+"Case Number","Status","Case Origin","Date/Time Opened","Completion Date","Model CodeName","Subject","Description","Resolution Reports"
+"00330166","Closed","","01.09.2025, 15:59","02.09.2025, 09:07","LH32QMCEPGCXEN","[LH32QMCEPGCXEN] - Tizen Business Manager","Es wird eine Freischaltung im TBM f�r folgende Standort ben�tigt: @ladengasse @national @kesselturm Ebenfalls sind Domain und Browser aktuell nicht funktional.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ approved and informed 
+�"
+"00313392","Closed","","28.01.2025, 15:20","29.01.2025, 11:38","VX-CSY","[VXT] Lizenzanfrage / Preise","KD fragt Preisliste von VXT-Lizenzen an, zudem: Werden diese Lizenzen in der Schweiz direkt bei Samsung oder �ber einen Distributor bezogen? Ich habe gesehen dass es f�r Partner die M�glichkeit von Tenant's gibt. Sind hier Informationen zur Registration bekannt? K�nnen Sie mir hierf�r einen Link zusenden?","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ Will be discussed with the customer during a meeting (Monday Feb 10.). 
+�"
+"00310651","Closed","","12.12.2024, 16:32","13.12.2024, 15:47","LH55OMNDPGB/EN","[OM55N-D] L�fter sehr laut und nicht regelbar, automatische L�ftersteuerung nicht ausw�hlbar","L�fter l�uft sehr laut. L�ftersteuerung l�sst sich nicht von manuell auf automatisch stellen manuelle L�ftersteuerung kaum ein Unterschied zw. Stufe 1 und Stufe 100 WR und FWU (FW 2450)o.E","[RESOLUTION REPORT] 
+ Type of Resolution : Pending from Customer 
+? Resolution Details :
+Hello Team,
+a. This case has been pending for over a week without any update
+b. The field check list is missing when creating a new case.
+So we close this case based on case management policy.
+You cannot change a case as reopen status after closing.
+So if you need further support on this, please create a new case.
+(? When you create a new case, you can enter this original case number in field 'Related Case'.)
+Thanks.
+? Follow-up actions :"
+"00309846","Closed","Customer Email","03.12.2024, 10:46","03.12.2024, 14:21","S-GT-I9300_TIZEN","WG: Bet�tigung der Organisation ausstehende - https://tbm.tizenenterprise.com/","Wir warten aktuell auf die Best�tigung unserer Organisation auf dem Portal ""Organization List | Tizen Business Manager""
+Scheinbar steckt da der Verifizierungsprozess irgendwo fest.
+Ist es ihnen m�glich uns da zu unterst�tzen?","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ approved - customer contacted. 
+�"
+"00305155","Closed","","30.09.2024, 20:36","01.10.2024, 07:15","LH24KMATBGCXEN","[SELISE] - Ordermonkey Application lagging issue","Dear Team, Following a call with Selise and SRPOL, please find here the discussed information: � - find the wgt (into a zip) attached to the ticket - Check this video to prepare the app on the kiosk: https://www.loom.com/share/72c3e3bc1ff04ee4964fd1d5354f0779?sid=d175c61a-a76f-4531-af7f-5c5cb1c34959 - Restaurant ID to test: LQG4J0U4YC � Please test the lagging issue as discussed in the call. � Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+ It's been more than 7 days and there was no update from customer/partner.
+So we close this case based on case management policy. 
+ You cannot change a case as reopen status after closing.
+Please share the no-minifed version of application, then�create a new case or use clone feature with reference to this case. 
+ (? When you create a new case, you can enter this original case number in field 'Related Case'.) 
+�"
+"00304971","Closed","Customer Email","27.09.2024, 10:30","27.09.2024, 15:20","LH85WMRWLGCXEN","WebAuthor Bug","Unser Webauthor verh�lt sich seltsam. Wenn wir mit Vorlagen arbeiten und die mit Drehungen und Verschiebungen hochladen und abspeichern, wird die Vorlage nach dem Speichern ohne unseren Einfluss abge�ndert und scheint verbuggt. Ein Video des seltsamen Verhaltens ist im Anhang hinterlegt.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ content cannot be bigger than the canvas, so it^s resized at save 
+�"
+"00303117","Closed","","03.09.2024, 18:09","04.09.2024, 11:12","BW-MIP70PA","License Allocation Issue","Dear Team, � from MIS V9 21.1050 there is an issue with License Allocation. No change is possible anymore. � Please check the attached video. � Steps to reproduce: - Go to ""Settings"" ""LicenseManagement"" ""License Status"" - Click on ""Allocate Organization"" - Do any changes and see the error Message. � Please provide a fix and a workaround by modifying the DB directly. � Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+ Changing�magicinfo.jar as provided in the solution solved the issue. Thank you all! 
+�"
+"00301383","Closed","Customer Email","13.08.2024, 08:52","13.08.2024, 09:20","LH55QHREBGCXEN","VXT Media Server Konfiguration","Kd bittet um Unterst�tzung bei der Konfiguration des VXT Media Players","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ Delivered VXT Legacy Guide 
+�"
+"00300905","Closed","","06.08.2024, 13:10","09.08.2024, 15:15","LH55QMCEBGCXEN","MagicINFO v9 21.1050.0","Internal Download Ticket","[RESOLUTION REPORT] 
+ Type of Resolution : No issue 
+? Resolution Details :
+Hello Team,
+a. This case has been pending for over a week without any update
+b. The field check list is missing when creating a new case.
+So we close this case based on case management policy.
+You cannot change a case as reopen status after closing.
+So if you need further support on this, please create a new case.
+(? When you create a new case, you can enter this original case number in field 'Related Case'.)
+Thanks.
+? Follow-up actions :"
+"00287978","Closed","","26.02.2024, 14:34","28.02.2024, 16:51","VX-PSYAT","[VXT CMS] - PDF kann nicht in Contentbereich geladen werden","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""PDF kann nicht in Contentbereich geladen werden, VXT CMS - KD m�chte fertigen Content hochladen, es gehen jpg-Dateien aber keine PDF-Dateien, bekommt eine orangefarbige Meldung/Fenster (Platzhalterbild) Office (im Vorschaubild), PDF kann nicht in Contentbereich geladen werden M: Ger�te noch nicht Vor Ort, derzeit nur virtuelle Testsoftware vorhanden, KD nutzen Login am PC, PDFs sollen an die Displays geschickt werden, welche in verschiedenen Siedlungen stehen sollen.""	 * Customer Request:	 -	 What did the Customer or Service Integrator already try:	 -	 * How to get error:	 -	 Expected behaviour:	 Kd ben�tigt Hilfe/Info zu Anfrage 	 Current behaviour:	 permanent 	 PRODUCT INFORMATION:	 * Modelcode:	VXT CMS Software * Firmware Version:	- * Serial Number:	- FW, sub (1,2,3): 	- Server OS: 	- Database version: 	- [LFD] MagicInfo Version:	- [LFD] Webauthor Version: 	- [HTV] Software Solution: 	- [HTV] Coax or IPTV connection: 	- [MONITOR] Signal�bertragung (HDMI, DP?):	- CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	26.02.2024, #157647270 * Preferred language:	German * Company Address: 	Stiftung Alterswohnungen der Stadt Z�rich, Feldstrasse 110, 8004 Z�rich ATTACHEMENTS:	 	 Customer Details	 * Firstname:	Lena * Lastname: 	Leuenberger * E-Mail:�	lena.leuenberger@zuerich.ch * Phone: 	0795873273 Mob:	- Address: 	Feldstrasse 110, 8004 Z�rich Preferred Contact Method: 	 E-Mail:	lena.leuenberger@zuerich.ch Phone: 	 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ Technical Guide was provided� 
+�"
+"00287434","Closed","","19.02.2024, 14:54","21.02.2024, 19:00","LH13QBREBGCXEN","[MISv9] WebAuthor clock widget issue","Dear all, � please support the following case: � MISv9 : 21.1040.2 � Description: - create a new LFD Content (tested with S6 and S9) in webauthor - add a clock widget. - set widget to also show weekday - Check wobauthor preview: the weekday is shown in full ""Monday"" or ""Montag"" - Save and publish content to a screen (tested wit S6 QB13R and S10 OH24B) � Expected behavior : - Screen shows the same information than in Webauthor Preview � Current behavior: - Screen shows the short version of the Weekday ""Mo"" or ""Mon"" (See attached screenshot) � Request: Please provide a fix or a guide: Screen should show the same as the preview. � Thank you","[RESOLUTION REPORT] 
+ Type of Resolution : S/W Changed 
+ this is unfortunately a bug in Web Author, and will be fixed in the next release of MagicINFO Server, which has now been pushed back to August of this year (tentative) 
+�"
+"00287249","Closed","Customer Email","15.02.2024, 12:51","19.02.2024, 11:05","LH75OHAEBGBXEN","[LH75OHAEBGBXEN]","Wir haben einen OH75A der die Screen Helligkeit nicht automatisch regelt, obwohl der ECO-Sensor eingeschaltet ist.
+Die Helligkeit bleibt immer gleich, egal bei welcher Tageszeit und Sonneneinstrahlung.
+Im Factory Men� wird beim Sensor Test ""OK"" angezeigt.
+ 
+Die FW ist: T-MSMLWWC-1280.3
+ 
+Das Ganze habe ich schon mit Samuel Gabriel Telefonisch angeschaut.","[RESOLUTION REPORT] 
+ Type of Resolution : Not a Defect 
+ The Brightness curve of OHA is too sensible, so even minimal lights (street, windows,...) cause the screen to run at high brightness. 
+ As the behavior is by design, i'll close the ticket without having a solution.� (ideally a�sensor-gain-adjusting feature should be added to Outdoor devices)�� 
+�"
+"00283391","Closed","","19.12.2023, 14:02","20.12.2023, 11:06","BW-LRNE01A","[LYNK REACH 4.0 License] not all licenses are shown","GENERAL/REQUEST INFORMATION:	 * Problem Description:	 ""We bought 187 licenses and the customer sees only 157. WHY? The TV model is irrelevant.""	 * Customer Request:	 -	 What did the Customer or Service Integrator already try:	 -	 * How to get error:	 -	 Expected behaviour:	 needs Support for licenses 	 Current behaviour:	 Not all licenses are visible 	 PRODUCT INFORMATION:	 * Modelcode:	BW-LRNE01A * Firmware Version:	- * Serial Number:	- FW, sub (1,2,3): 	- Server OS: 	- Database version: 	Samsung LYNK Reach 4.0 [LFD] MagicInfo Version:	 [LFD] Webauthor Version: 	- [HTV] Software Solution: 	- [HTV] Coax or IPTV connection: 	- [MONITOR] Signal�bertragung (HDMI, DP?):	- CUSTOMER INFORMATION:	 * Ticket Entry (Sprinklr):	#141607620; 14.12.2023 * Preferred language:	German * Company Address: 	APTON SAGL, Viale Stazione 11, 6500 Bellinzona ATTACHEMENTS:	 Bild Lizenz 	 Customer Details	 * Firstname:	Steve * Lastname: 	Mazzola * E-Mail:�	steve.mazzola@apton.ch * Phone: 	0912221200 Mob:	 Address: 	Viale Stazione 11, 6500 Bellinzona Preferred Contact Method: 	 E-Mail:	steve.mazzola@apton.ch Phone: 	 Language: 	German","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ Wrong process for Lynk Reach:� 
+ Correct: License extension isn't working. Need a new License key to be added in addiditon to the�original one.� 
+�"
+"00281208","Closed","","24.11.2023, 11:05","27.11.2023, 11:01","LH43QMBEBGCXEN","[DataLink] Error in numeric data from Excel","Dear team, Please check the following issue in DataLink, which we believe is a bug. � Issue: DataLink cannot handle numeric fields during ingest. DataLink imports them as VARCHAR, and removes the decimal parts. � Case description / Steps to reproduce: -	Customer has an ?excel? file that is added to the ?Excel connector? in DataLink -	In this Excel file, one of the fields contains the price of the product. Here in Switzerland, numbers with decimals are written as ?22.80? with a ?dot? as the linker. -	During the import, DataLink removes the decimal parts, and adds only the INT part, as VARCHAR to the service. In the eg. : ?22? What we tested already: -	Manually replaced the ?.? with a ?,? in the excel file -	Defined the field as a ?number? in Excel -	Tested various Excel data types Findings: -	Only replacing the ?.? with a ?,? in the Excel file, finally had the ?22,80? value displayed in DataLink. -	This value in DataLink is now a VARCHAR, and it is not possible to cast it to something else -	To have the data shown correctly on the screen we had to replace the ?,? back to ?.? again in an SQL view (Select REPLACE(DL_H, ?,?,?.?) then cast it to a decimal number ? � Request: please check if this can be considered as a bug. If not, then please provide a guide on how price value ?22.80? can be used in DataLink without having to change the source data and modify it again later in DataLink. � Thank you Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Pending From Customer 
+ Resolving as per our policy. As per comment from L4, there are two options to handle the issue: 
+ 1.Add Apostrophe (') to number so that it reads it as String. 
+ 2.Instead of above step you can just save file as .csv instead excel. As csv file supports every type. 
+�"
+"00281198","Closed","","24.11.2023, 10:11","27.11.2023, 15:39","LH24QBRTBGCXEN","[QB24R-T] Howto disable long-press menu","Dear team, � please provide a guide for the following case: � The customer is using QB24R-T to display a webpage (published by MagicINFO). This page has to be used by touching the screen. Problem: On our touch devices, a long-press on the screen recalls the OSD menu, where every user can change the source or even turn the device off. � what we tried : - security lock on (this asks for the pin on every interaction, so it's useless for our touch case) - different button lock settings (these have no impact on the OSD menu) � Request: please provide a guide on how to deactivate the long-press function on touch devices. � Thank you Warm regards, � Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ �Menu -> General -> Touch Control -> Admin Menu Lock and set it to On 
+�"
+"00277255","Closed","","04.10.2023, 10:55","05.10.2023, 09:09","LH43QMNEBGC/EN","[MISv8] ""SQL Error was encountered"" by creating custom Frames in MagicINFO schedule","Dear team, � please support the following case: � We have an Org Admin which is not allowed to create custom Frames in MI Schedules. just after pressing the ""Save"" button, he sees an ""SQL Error was encounterd"" Error. (See attached screenshot) � Other Org Admins or Server Admins are not experiencing the issues. � Server Version: MagicINFO V8 build NA-MICS-20.1010.10 DB: PostgreSQL 9.6 � Thank you in advance for your support! Warm regards, Thomas","[RESOLUTION REPORT] 
+ Type of Resolution : Technical Guide 
+ 1) Create backup of the database 
+ 2) Stop the MagicInfo Premium service 
+ 3) Open PG Admin 
+ 4) Run the given query� ""ALTER TABLE MI_CDS_INFO_FRAME_TEMPLATE ALTER COLUMN ORGANIZATION TYPE VARCHAR(60);""� in the database. 
+ 5) Start the service again 
+ 6) Login with the user� 
+ 7) Create custom frame in schedule and save 
+�"
