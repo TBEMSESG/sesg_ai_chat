@@ -1,0 +1,169 @@
+[{"Case Number":"00330166","Date/Time Opened":"01.09.2025, 15:59","Subject":"[LH32QMCEPGCXEN] - Tizen Business Manager","Description":"Es wird e
+ine Freischaltung im TBM f�r folgende Standort ben�tigt: @ladengasse @national @kesselturm Ebenfalls sind Domain und Browser aktuell nicht funkt
+ional.","Resolution Reports":""},{"Case Number":"00313392","Date/Time Opened":"28.01.2025, 15:20","Subject":"[VXT] Lizenzanfrage / Preise","Desc
+ription":"KD fragt Preisliste von VXT-Lizenzen an, zudem: Werden diese Lizenzen in der Schweiz direkt bei Samsung oder �ber einen Distributor be
+zogen? Ich habe gesehen dass es f�r Partner die M�glichkeit von Tenant's gibt. Sind hier Informationen zur Registrat","Resolution Reports":""},{
+"Case Number":"00310651","Date/Time Opened":"12.12.2024, 16:32","Subject":"[OM55N-D] L�fter sehr laut und nicht regelbar, automatische L�fterste
+uerung nicht ausw�hlbar","Description":"L�fter l�uft sehr laut. L�ftersteuerung l�sst sich nicht von manuell auf automatisch stellen manuelle L�
+ftersteuerung kaum ein Unterschied zw. Stufe 1 und Stufe 100 WR und FWU (FW 2450)o.E","Resolution Reports":"Hello Team"},{"Case Number":"0030984
+6","Date/Time Opened":"03.12.2024, 10:46","Subject":"WG: Bet�tigung der Organisation ausstehende - https://tbm.tizenenterprise.com/","Descriptio
+n":"","Resolution Reports":""},{"Case Number":"00305155","Date/Time Opened":"30.09.2024, 20:36","Subject":"[SELISE] - Ordermonkey Application la
+gging issue","Description":"Dear Team, Following a call with Selise and SRPOL, please find here the discussed information: � - find the wgt (int
+o a zip) attached to the ticket - Check this video to prepare the app on the kiosk: https://www.loom.com/share/72c","Resolution Reports":""},{"C
+ase Number":"00304971","Date/Time Opened":"27.09.2024, 10:30","Subject":"WebAuthor Bug","Description":"Unser Webauthor verh�lt sich seltsam. Wen
+n wir mit Vorlagen arbeiten und die mit Drehungen und Verschiebungen hochladen und abspeichern, wird die Vorlage nach dem Speichern ohne unseren
+ Einfluss abge�ndert und scheint verbuggt. Ein Video des seltsamen Ve","Resolution Reports":"content cannot be bigger than the canvas"},{"Case N
+umber":"00303117","Date/Time Opened":"03.09.2024, 18:09","Subject":"License Allocation Issue","Description":"Dear Team, � from MIS V9 21.1050 th
+ere is an issue with License Allocation. No change is possible anymore. � Please check the attached video. � Steps to reproduce: - Go to \"\"Set
+tings\"\" \"\"LicenseManagement\"\" \"\"L","Resolution Reports":""},{"Case Number":"00301383","Date/Time Opened":"13.08.2024, 08:52","Subject":"
+VXT Media Server Konfiguration","Description":"Kd bittet um Unterst�tzung bei der Konfiguration des VXT Media Players","Resolution Reports":""},
+{"Case Number":"00300905","Date/Time Opened":"06.08.2024, 13:10","Subject":"MagicINFO v9 21.1050.0","Description":"Internal Download Ticket","Re
+solution Reports":"Hello Team"},{"Case Number":"00287978","Date/Time Opened":"26.02.2024, 14:34","Subject":"[VXT CMS] - PDF kann nicht in Conten
+tbereich geladen werden","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Description:\t \"\"PDF kann nicht in Contentbereich geladen wer
+den, VXT CMS - KD m�chte fertigen Content hochladen, es gehen jpg-Dateien aber keine PDF-Dateien, bekommt eine orangefarbige Meldung/Fenst","Res
+olution Reports":""},{"Case Number":"00287434","Date/Time Opened":"19.02.2024, 14:54","Subject":"[MISv9] WebAuthor clock widget issue","Descript
+ion":"Dear all, � please support the following case: � MISv9 : 21.1040.2 � Description: - create a new LFD Content (tested with S6 and S9) in we
+bauthor - add a clock widget. - set widget to also show weekday - Check w","Resolution Reports":"this is unfortunately a bug in Web Author"},{"C
+ase Number":"00287249","Date/Time Opened":"15.02.2024, 12:51","Subject":"[LH75OHAEBGBXEN]","Description":"Wir haben einen OH75A der die Screen H
+elligkeit nicht automatisch regelt","Resolution Reports":"Die Helligkeit bleibt immer gleich"},{"Case Number":"00283391","Date/Time Opened":"19.
+12.2023, 14:02","Subject":"[LYNK REACH 4.0 License] not all licenses are shown","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Descript
+ion:\t \"\"We bought 187 licenses and the customer sees only 157. WHY? The TV model is irrelevant.\"\"\t * Customer Request:\t -\t What did the 
+Customer or Service Integr","Resolution Reports":""},{"Case Number":"00281208","Date/Time Opened":"24.11.2023, 11:05","Subject":"[DataLink] Erro
+r in numeric data from Excel","Description":"Dear team, Please check the following issue in DataLink, which we believe is a bug. � Issue: DataLi
+nk cannot handle numeric fields during ingest. DataLink imports them as VARCHAR, and removes the decimal parts. � Case description / Ste","Resol
+ution Reports":"Resolving as per our policy. As per comment from L4"},{"Case Number":"00281198","Date/Time Opened":"24.11.2023, 10:11","Subject"
+:"[QB24R-T] Howto disable long-press menu","Description":"Dear team, � please provide a guide for the following case: � The customer is using QB
+24R-T to display a webpage (published by MagicINFO). This page has to be used by touching the screen. Problem: On our touch devices, a long-pres
+s on","Resolution Reports":""},{"Case Number":"00277255","Date/Time Opened":"04.10.2023, 10:55","Subject":"[MISv8] \"\"SQL Error was encountered
+\"\" by creating custom Frames in MagicINFO schedule","Description":"Dear team, � please support the following case: � We have an Org Admin whic
+h is not allowed to create custom Frames in MI Schedules. just after pressing the \"\"Save\"\" button, he sees an \"\"SQL Error was encounterd\"
+\" Error","Resolution Reports":"\"ALTER TABLE MI_CD"},{"Case Number":"00274534","Date/Time Opened":"31.08.2023, 11:07","Subject":"[MagicInfo Web
+author] Webauthor startet nicht, zeigt Fehlermeldung","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Description:\t Magic Info Webautho
+r startet nicht, Fehlermeldung: \"\"Magic Info Server Version ist niedriger als Webauthor-version\"\"\t * Customer Request:\t \t What did the Cu
+stomer","Resolution Reports":"Certificate details have to be changed in server.xml"},{"Case Number":"00269932","Date/Time Opened":"29.06.2023, 1
+0:18","Subject":"[MagicInfo] Datenquellen f�r DataLink","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Description:\t \"\"Wir haben ein
+en Kunden, der ein Web-Tool verwendet, um seine Raumbelegungen zu verwalten. Diese w�rde er gerne in MagicInfo abbilden, und wir haben ihm daf�r
+ DataLink empfohlen. �","Resolution Reports":""},{"Case Number":"00269454","Date/Time Opened":"23.06.2023, 12:06","Subject":"[MagicInfo] Lizenzs
+chl�ssel umschreiben","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Description:\t \"\" Anl�sslich der MagicInfo Zertifizierung im Nov
+ember haben wir 2 Lizenzen erhalten. Wir haben nun gesehen, dass diese 2 Lizenzen auf einem neuen Schl�ssel aktiviert worden sind","Resolution R
+eports":""},{"Case Number":"00267997","Date/Time Opened":"06.06.2023, 12:09","Subject":"[W-Player] Issue in Variable Tags values","Description":
+"Dear team, please support the following case: � We noticed that passing Variable Tag values to W-player fails if there is a colon (:) in the Va
+lue of the Variable Tag. � how to reproduce: - Assign the following Variable Tag to a W","Resolution Reports":""},{"Case Number":"00267429","Dat
+e/Time Opened":"30.05.2023, 13:37","Subject":"[Cloned] [MISv9] Panel Off disappeared in Schedule","Description":"Dear all","Resolution Reports":
+"I reopen this Ticket (old 00262264). The ticket shouldn't have been closed"},{"Case Number":"00263198","Date/Time Opened":"05.04.2023, 13:59","
+Subject":"[MIS v9] S10 Devices not recognized as S10","Description":"Dear all, please support this case: � - We are running MIS v9 21.1030.0 wit
+h some S10 devices. We expected to have S10 devices recognized correctly with the newest version of MIS. � Even though the devices are recognize
+d as S9, Webauth","Resolution Reports":""},{"Case Number":"00261723","Date/Time Opened":"21.03.2023, 15:57","Subject":"[MISv9] Panel Off duratio
+n is modified if only one weekday is selected.","Description":"Dear Team, � please support the following case: � MIS V9 21.1020.0 PG 12 � Descri
+ption: Panel Off duration is modified if only one weekday is selected. � To reproduce: - Create a new Schedule - Add Panel Off, fr","Resolution 
+Reports":""},{"Case Number":"00259185","Date/Time Opened":"20.02.2023, 10:39","Subject":"[MagicInfo] Migration der Lizenzen","Description":"GENE
+RAL/REQUEST INFORMATION:\t * Problem Description:\t \"\"Wir haben eine bestehende MagicInfo-Instanz mit aktuell 62 Displays. � Wir w�rden gerne 
+4 weiter Displays hinzuf�gen, damit wir dann 66 Displays betreiben k�nnen. � Daf�r h","Resolution Reports":""},{"Case Number":"00258447","Date/T
+ime Opened":"09.02.2023, 10:45","Subject":"[MagicInfo Server V9] Database problem after MagicInfo update","Description":"GENERAL/REQUEST INFORMA
+TION:\t * Problem Description:\t Yesterday, I updated a customer�s MagicInfo server from v7 to v9. After the update, we now have the problem tha
+t the server only works for a short while before becoming slower and slower u","Resolution Reports":""},{"Case Number":"00258337","Date/Time Ope
+ned":"08.02.2023, 13:35","Subject":"MCD Downgrade Firmware Request","Description":"","Resolution Reports":""},{"Case Number":"00256539","Date/Ti
+me Opened":"13.01.2023, 09:02","Subject":"[MagicINFO] Webauthor display issue","Description":"Dear All � MagicINFO Server: 21.2010.0 Webauthor: 
+21.2010.0","Resolution Reports":""},{"Case Number":"00254612","Date/Time Opened":"09.12.2022, 16:24","Subject":"[Cloned] MagicInfo 9 / Webauthor
+ / Error Message / Oops! (403)","Description":"Hi all","Resolution Reports":"When my customer tries to open WebAuthor"},{"Case Number":"00253518
+","Date/Time Opened":"23.11.2022, 17:17","Subject":"[LH65WMR] Steuerung per TCP/IP","Description":"GENERAL/REQUEST INFORMATION:\t * Problem Desc
+ription:\t mehrere Flip 2 WM65R soll per TCP/IP gesteuert werden, dies funktioniert soweit auch, es soll aber auch das Screensharing per TCP/IP 
+getrickert werden. Des weiteren wird bei Source-Abfrage","Resolution Reports":"Case can be closed"},{"Case Number":"00253485","Date/Time Opened"
+:"23.11.2022, 13:05","Subject":"[MagicINFO V8 / MagicINFO 9] Tempor�re Lizenzen","Description":"* Problem Description:\t \"\"Ich muss von einem 
+Kunden 108 Ger�te auf einen neuen Magicinfo Server z�geln. Dies w�rde ich gerne via altem Magicinfo Server auf den Ger�ten anpassen. Der Lizenzs
+chl�ssel soll nach der Migration auf den neuen Server i","Resolution Reports":""},{"Case Number":"00250721","Date/Time Opened":"14.10.2022, 17:1
+3","Subject":"[MISv9] DataLink custom SSL certificate - fail in DLK linking","Description":"Dear Team, Please support the following case: � Magi
+cINFO9 Server 21.1020.0 DataLink 8 Server 20.1000.3 � Description: -\tUsing DataLink with a custom SSL Certificate (well-known CA, not even a se
+lf-signed one) fails in conne","Resolution Reports":"\"keystore.identity.path\"\"� still us"},{"Case Number":"00250328","Date/Time Opened":"11.1
+0.2022, 08:43","Subject":"[Event Trigger] Request of clarification - DLK/LFT","Description":"Dear Team, � please help us understand the followin
+g behavior: � Using an External (UDP) event trigger on QB13R works fine if displaying an LFD. ISSUE: If I publish a DLK, the QB13R stops reactin
+g to UDP triggers. � The same set","Resolution Reports":"Test FW was provided to Customer"},{"Case Number":"00242426","Date/Time Opened":"20.06.
+2022, 14:42","Subject":"[Cloned] [INSIGHT] Can not activate organization on MI Insight - related to Case Number 00222932","Description":"Dear al
+l","Resolution Reports":"Hello Devesh"},{"Case Number":"00239907","Date/Time Opened":"13.05.2022, 09:27","Subject":"[WM55H] SMTP Einrichtung anp
+assen","Description":"GENERAL/REQUEST INFORMATION: - *Problem Description: Der Kunde m�chte gerne SMTP einrichten, jedoch m�chte er von der Basi
+c Authentifikation weg und nur �ber ein IP Whitelisting E-Mails versenden. Der Flip ist nicht immer zug�nglich und der","Resolution Reports":""}
+,{"Case Number":"00238585","Date/Time Opened":"27.04.2022, 13:54","Subject":"[QM50R-A] PIN aktiv und Fernbedienung gesperrt, kein Zugriff m�glic
+h","Description":"GENERAL/REQUEST INFORMATION: - *Problem Description: Der Sicherheitscode/PIN ist auf dem QM50R-A aktiviert. Die PIN Eingabe is
+t nicht m�glich da die Fernbedienung ebenfalls gesperrt ist. Der Kunde fragt nach den M�glichkeiten um","Resolution Reports":""},{"Case Number":
+"00236809","Date/Time Opened":"01.04.2022, 15:34","Subject":"[WMR] Impossible to export when content is overlapping between 2 pages","Descriptio
+n":"Dear all, � A customer had issue while exporting one of his file on his WM55R. He tried over email, mobile and USB and it wasn't working pro
+pely. In the middle of the export process, the flip turns black and go back to a blank Roll. After that,","Resolution Reports":""},{"Case Number
+":"00234778","Date/Time Opened":"07.03.2022, 17:43","Subject":"[LH40MDCPLGC/EN] Follow Up zu Ticket 00234640 - Software Download zustellen","Des
+cription":"GENERAL/REQUEST INFORMATION: - *Problem Description: Folge Ticket zu Salesforce Case 00234640. Der Kunde wurde von Thomas Beck zu Mag
+icInfo Lite informiert. Nun fragt er einen Link zum Download der Software an. � Bitte dem Ku","Resolution Reports":"Provided contact to MagicINF
+O Certified partner in Ticino.�(Also provided MI Express 2 downloadlink"},{"Case Number":"00234640","Date/Time Opened":"04.03.2022, 15:15","Subj
+ect":"[LH40MDCPLGC/EN] Fragen zur Nutzung des Ger�tes mit MagicInfo Software","Description":"- *Problem Description: Aktuell wird per USB Stick 
+Inhalt auf dem LH40MDCPLGC/EN abgespielt. Der Kunde m�chte nun vom PC direkt Inhalt auf das Ger�t senden und hat nun einige Fragen dazu: � - W�r
+de es mit MagicInfo Lite funktionieren?","Resolution Reports":""},{"Case Number":"00234276","Date/Time Opened":"01.03.2022, 09:04","Subject":"[D
+ataLink v9] Installation fails on PG12","Description":"Dear team, Please support this case: Description: Customer installs DataLink v9 21.1000.4
+ on a new server running Postgresql 12.10. The installation runs smoothly, but no tables are inserted into the newly created dat","Resolution Re
+ports":""},{"Case Number":"00234013","Date/Time Opened":"24.02.2022, 14:57","Subject":"[Iplayer] Please share official System requirements for I
+-Player","Description":"Dear Team � could you please share official system requirements for an I-Player system? � - Which Windows Versions are s
+upported? - What are the minimum required hardware specs? � Thank you Warm regards, Thomas","Resolution Reports":""},{"Case Number":"00231357","
+Date/Time Opened":"18.01.2022, 10:52","Subject":"[MIv8] Probleme beim Update","Description":"GENERAL/REQUEST INFORMATION: -\t*Problem Descriptio
+n: Siehe CR -\tCustomer Request: � Es gibt bei unserem Serverpartner ein Problem mit dem Update Magic Info von 8auf 9. � Anbei die Fehlerbeschre
+ibung: Beim MagicInfo Server Upda","Resolution Reports":""},{"Case Number":"00226255","Date/Time Opened":"22.10.2021, 16:00","Subject":"UH55F | 
+Keine Anzeige nach Einschalten","Description":"GENERAL/REQUEST INFORMATION: - *Problem Description: Hallo Sam, das Ger�t schaltet ein, bleibt je
+doch schwarz. Bitte m�glichen Hardware Fehler kl�ren. � Danke Remo � - Customer Request: Nous avons un appareil Sams","Resolution Reports":""},{
+"Case Number":"00225326","Date/Time Opened":"08.10.2021, 16:51","Subject":"[MI] Offline Lizenzaktivierung","Description":"GENERAL/REQUEST INFORM
+ATION: -\t*Problem Description: Siehe CustomerRequest -\tCustomer Request: � Bitte erstellen Sie anhand des MagicInfo Lizenzschl�ssels im Anhang
+ ein neues Offline Aktivierungsfile. � Lizenzschl�ssel: 01015A � 26O","Resolution Reports":""},{"Case Number":"00224411","Date/Time Opened":"23.
+09.2021, 16:56","Subject":"[MIv8] (follow-up: 00223799) Verbindungs- & Zertifikatsprobleme mit interner Website","Description":"GENERAL/REQUEST 
+INFORMATION: - *Problem Description: � Der Kunde betreibt einen MagicInfo Server und hat mehrere verschiedene Signage Displays. Er versucht auf 
+seinen Displays eine interne Website anzuzeigen, was jedoch nicht funktioniert (Fe","Resolution Reports":"these Certificates are intended for a 
+Certificate based network authentication (IEEE802.1x)"},{"Case Number":"00220784","Date/Time Opened":"23.07.2021, 15:48","Subject":"SBB | Frage 
+zu WiFi Frequenz","Description":"GENERAL/REQUEST INFORMATION: -\t*Problem Description: Kunde hat eine Frage zu den Spezifikationen von SBB-SS08N
+T2XEN & SBB-SS08NL1/EN � -\tCustomer Request: Hello I would like to know the PC ModulSamsung SBB-SS08NT2XEN and SBB-SS08NL1","Resolution Reports
+":""},{"Case Number":"00220177","Date/Time Opened":"14.07.2021, 14:00","Subject":"[MIv9] Remote Management Server Lizenz Anliegen","Description"
+:"GENERAL/REQUEST INFORMATION: - *Problem Description: Der SI braucht eine Remote Management Server Lizenz mit 10 Ger�ten. Er sagt jedoch auch, 
+dass ein Remote Management Server im MIv9 nicht mehr als Standalone gibt und er deswegen eine","Resolution Reports":""},{"Case Number":"00217885
+","Date/Time Opened":"09.06.2021, 10:04","Subject":"BW-MIP30PS | Lizenzumwandlung zu BW-MIP70PA","Description":"GENERAL/REQUEST INFORMATION: - *
+Problem Description: Hoi N�sch bitte Lizenz im Anhang zu Unified 2 konvertieren. Die Lizenzen sind noch nicht genutzt, der Server wird erst aufg
+esetzt. � Part Number :: BW-MIP30PS License","Resolution Reports":""},{"Case Number":"00217268","Date/Time Opened":"31.05.2021, 08:19","Subject"
+:"[MISv8] Content Synch, Request of technical network details","Description":"Dear Team, � -\tThe customer (a swiss bank) asks for Detailed Tech
+nical information about how devices are synchronized with each other. -\tUse Case: a few devices are playing the same content. In Schedule Optio
+ns, the �Synch Content� is on","Resolution Reports":""},{"Case Number":"00214640","Date/Time Opened":"16.04.2021, 11:33","Subject":"[MI v8] Lize
+nzmigration Unified1 -> Unified2","Description":"GENERAL/REQUEST INFORMATION: -\t*Problem Description: Der Kunde hat seinen Server von v7 auf v8
+ geupdated und m�chte nun die Unified1 Lizenz in eine Unified2 Lizenz umwandeln. -\tCustomer Request: � Folgend die Lizenz, welche umgewandelt w
+","Resolution Reports":"License is migrated"},{"Case Number":"00214498","Date/Time Opened":"14.04.2021, 18:14","Subject":"[Touch] How to Deactiv
+ate Multi Touch (Pinch Zoom)","Description":"Dear Team","Resolution Reports":"We have a PoC Running for Swisscom"},{"Case Number":"00214372","Da
+te/Time Opened":"13.04.2021, 15:33","Subject":"[MI] Lizenzaktivierung Fehlerhafte Anzahl Ger�te","Description":"GENERAL/REQUEST INFORMATION: -\t
+*Problem Description: Vorheriges Ticket -> 00213655 -\tCustomer Request: � Wie uns der Kunde soeben mitteilte, sind im Aktivieurngsfile nur 86 G
+er�te aktiv und nicht wie es eigentlich sein sollte 91.","Resolution Reports":""},{"Case Number":"00212193","Date/Time Opened":"10.03.2021, 17:1
+6","Subject":"7000er Firmware Request","Description":"Dear All please check the reqeust attached to this case and provide the 7000er firmware to
+ fullfill the rollout at customer site. � Many Thanks Best Regards sam","Resolution Reports":""},{"Case Number":"00211472","Date/Time Opened":"0
+1.03.2021, 13:11","Subject":"[OMN] Sensor Value Question","Description":"Dear All � Device: OM55N Firmware: 2220.5, 1048, 1004 � Question: we ha
+ve several OMN devices which show a negativ LUX value when we show the eco sensor read data in service menu. � can you tell me what the -xxx Lux
+ value mea","Resolution Reports":"If strong light is reflected"},{"Case Number":"00207717","Date/Time Opened":"22.12.2020, 16:33","Subject":"[IF
+R] Missing FPGA in SLM","Description":"Dear Team � can you please provide or upload the actual IFR FPGA Firmware to SecSLM? could not find any o
+nline. � Thank you and best regards Thomas �","Resolution Reports":"FPGA provided"},{"Case Number":"00205745","Date/Time Opened":"19.11.2020, 08
+:52","Subject":"[WiFi Module] Clarification about used WiFi Bands","Description":"Dear Team � an SI is requesting a document that describes whic
+h Wireless Bands are used on our Devices. (2.4GHz / 5GHz) � Request: - Can you provide an overview of installed Hardware / Available Wireless Ba
+nds for our Devices? �","Resolution Reports":""},{"Case Number":"00202745","Date/Time Opened":"06.10.2020, 08:49","Subject":"[License] License r
+eassigned from SESG to SEBN","Description":"Dear DSSC Team can you please check why this license was reassigned, from SESG to SEBN? 010121-YUPMI
+5-6VOSZW-XYIK � -can this happen without any approval from SESG? -Please reassign the regenerated MIP70PA license to SESG. �","Resolution Report
+s":""},{"Case Number":"00200867","Date/Time Opened":"10.09.2020, 16:47","Subject":"[MI SRV 7] Adding device to server","Description":"GENERAL/RE
+QUEST INFORMATION: -\t*Problem Description: nachdem das Netzwerk neu erstellt wurde konnte der IPlayer nicht mehr verbunden warden. -\t Ich verm
+ute dass die ServeNetzwerk Adresse fehlt, Kunde kann mir dies jedoch nicht best�tigen und","Resolution Reports":""},{"Case Number":"00200445","D
+ate/Time Opened":"04.09.2020, 09:14","Subject":"[SBB-SSF] Issue displaying external HDMI source","Description":"Dear team � please support the f
+ollowing case: � Player : SSB SSF FW Player : \t TB-HMSCFDWWC-2080.3;TB-HKMLBFWWS-1003;TB-NVTLBFWWS-1012 MagicINFO: - Tested on V6.0 Build NA-MI
+IPS-6002.0 - Tested on V8 build NA-M","Resolution Reports":""},{"Case Number":"00199904","Date/Time Opened":"27.08.2020, 12:14","Subject":"[Linu
+x-Kernel] Tizen Linux-Kernel question","Description":"Dear Team � Ticket is related to 199566 / Please reassign to Richard (WECHEOL LIM) � Dear 
+Richard � Can you please clarify the following related questions: � - How long will the Linux-Kernel 4.1.10 be supported? - Is there a","Resolut
+ion Reports":""},{"Case Number":"00199825","Date/Time Opened":"26.08.2020, 14:04","Subject":"[Flip 2] Drag & Drop im Webbrowser","Description":"
+GENERAL/REQUEST INFORMATION: -\t*Problem Description: Beim Kunden funktioniert im Webbrowser das Drag&Drop nicht -\tCustomer Request: -\tWhat di
+d the Customer or Service Integrator already try: -\t*How to get error: -\t1. Web","Resolution Reports":""},{"Case Number":"00198861","Date/Time
+ Opened":"11.08.2020, 15:36","Subject":"[NFR] Requested 802.1x functionality over wired LAN","Description":"Our Customer","Resolution Reports":"
+a swiss insurance company"},{"Case Number":"00198712","Date/Time Opened":"10.08.2020, 09:26","Subject":"[MI-S] Content can only be edited once",
+"Description":"GENERAL/REQUEST INFORMATION: -\t*Problem The Customer has a reoccuring issue with MagicInfo Server. When a User edits content onc      
+e, he cannot edit it a second time. But it is the same user who first edited the content. The use is s","Resolution Reports":""},{"Case Number":      
+"00198592","Date/Time Opened":"06.08.2020, 16:30","Subject":"[PM55F-BC] Firmware kann nicht eingespielt","Description":"GENERAL/REQUEST INFORMAT      
+ION: - *Problem Description: Kunde kann das neue Firmware nicht einspielen, es erscheint die Fehlermeldung �Verbindung fehlgeschlagen� - Custome      
+r Request: Wants new firmware - What did the Customer or Service Int","Resolution Reports":""},{"Case Number":"00196420","Date/Time Opened":"07.      
+07.2020, 16:03","Subject":"[IEEE 802.1x] Is 802.1x supported on wired LAN connection?","Description":"","Resolution Reports":""},{"Case Number":      
+"00193623","Date/Time Opened":"26.05.2020, 16:31","Subject":"Inhalte auf QB75R mit MagicInfo anzeigen","Description":"Display Solution Dear Team      
+ � Can you check this issue? � Problem Description: Ich w�rde gerne Inhalte auf meinem Samsung QB75R mit MagicInfo anzeigen k�nnen. Wie mache ic      
+h das? � Customer Request: Wie kann ich Inhalte anzeigen?","Resolution Reports":""},{"Case Number":"00190343","Date/Time Opened":"02.04.2020, 14      
+:52","Subject":"[NRF] MagicINFO Preset Management - Proxy settings","Description":"Dear Team � can you please support this NRF � Swiss Bank BO 1      
+.3M USD � Server in use now: 7100.2 Server planned for Rollout: V8 � Displays: QM, OM (S6 Players) � Request: Add the possibility to set Proxy (      
+inc","Resolution Reports":""}]

@@ -4,11 +4,12 @@ import { parse } from 'csv-parse/sync'; // <-- sync entry point
 
 import { conversationRepository } from '../repositories/conversation.repository';
 import template from '../prompts/chatbot.txt';
+import oldData from '../prompts/data.txt';
 import { llmClient } from '../llm/client';
 
 type ChatResponse = {
    id?: string;
-   message: string;
+   message: string | undefined;
 };
 
 function readCsvSync<T = Record<string, string>>(relativePath: string): T[] {
@@ -41,6 +42,7 @@ function readCsvSync<T = Record<string, string>>(relativePath: string): T[] {
 
 const rows = readCsvSync<Record<string, string>>('../prompts/report.csv');
 console.log(`I have ${rows.length} old tickets in memory`);
+console.log(JSON.stringify(rows[10]));
 
 const caseExportData = fs.readFileSync(
    path.join(__dirname, '..', 'prompts', 'report.csv'),
@@ -50,12 +52,13 @@ const caseExportData = fs.readFileSync(
 const instructions = template.replace('{{caseExport}}', JSON.stringify(rows));
 
 export const chatService = {
-   async sendMessage(prompt: string): Promise<ChatResponse> {
-      const response = await llmClient.chatSESG(
-         template,
-         caseExportData,
-         prompt
-      );
+   async sendMessage(
+      prompt: string,
+      conversationId: string
+   ): Promise<ChatResponse> {
+      console.log('chatService.sendMessage received the call...');
+
+      const response = await llmClient.chatSESG(template, oldData, prompt);
 
       return {
          message: response,

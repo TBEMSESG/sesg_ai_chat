@@ -10,7 +10,7 @@ const openAIClient = new OpenAI({
 
 const inferenceClient = new InferenceClient(process.env.HF_TOKEN);
 
-const ollamaClient = new Ollama({ host: 'http://10.10.0.16:11434' });
+const ollamaClient = new Ollama({ host: 'http://localhost:11434' });
 
 type GenerateTextOptions = {
    model?: string;
@@ -69,23 +69,36 @@ export const llmClient = {
    },
 
    async chatSESG(instructions: string, oldData: string, request: string) {
-      const output = await ollamaClient.chat({
-         model: 'hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:Q4_K_M',
-         messages: [
-            {
-               role: 'system',
-               content: instructions,
+      try {
+         const output = await ollamaClient.chat({
+            // model: 'llama3.1',
+            // model: 'tinyllama',
+            model: 'hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:Q4_K_M',
+            messages: [
+               {
+                  role: 'system',
+                  content: `Follow this instructions: ---- ${instructions} ---- `,
+               },
+               {
+                  role: 'user',
+                  content: `base your answers only on these old cases. The old data is provided as an JSON array of cases with the following Keys:  "Case Number","Date/Time Opened","Subject","Description","Resolution Reports"
+---- ${oldData} ----  `,
+               },
+               
+               {
+                  role: 'user',
+                  content: request,
+               },
+            ],
+            options: {
+               temperature: 0.5,
+               num_ctx: 15000,
             },
-            {
-               role: 'user',
-               content: `This is the old case data to compare to:  ---- ${oldData} ----`,
-            },
-            {
-               role: 'user',
-               content: request,
-            },
-         ],
-      });
-      return output.message.content || '';
+         });
+         return output.message.content || '';
+      } catch (error) {
+         console.log('error contacting ollama');
+         return;
+      }
    },
 };

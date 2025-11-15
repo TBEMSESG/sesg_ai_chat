@@ -22,7 +22,8 @@ const ChatBot = () => {
    const [isBotTyping, setIsBotTyping] = useState(false);
    const [messages, setMessages] = useState<Message[]>([]);
    const [error, setError] = useState('');
-   const conversationId = useRef(crypto.randomUUID());
+   // const conversationId = useRef(crypto.randomUUID());
+   const conversationId = useRef('029a672b-5a41-492c-ba4b-8d5b04bf94c1');
 
    const onSubmit = async ({ prompt }: ChatFormData) => {
       try {
@@ -42,6 +43,7 @@ const ChatBot = () => {
          ]);
          notificationAudio.play();
       } catch (error) {
+         console.log('Error folgt: ')
          console.error(error);
          setError('Something went wrong, try again!');
       } finally {
